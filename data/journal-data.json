@@ -1,6 +1,6 @@
 {
-  "contentVersion": "2026-08-29T11:28:36+08:00",
-  "appVersionMin": "1.1.0",
+  "contentVersion": "2026-08-29T13:25:06+08:00",
+  "appVersionMin": "1.6.0",
   "journals": [
     {
       "code": "JF",
@@ -13,6 +13,10 @@
           "year_month": "2026-08",
           "issue_url": "https://onlinelibrary.wiley.com/toc/15406261/2026/81/4",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 13,
           "papers": [
             {
               "title": "Private Equity and Pay Gaps Inside the Firm",
@@ -182,6 +186,10 @@
           "year_month": "2026-06",
           "issue_url": "https://onlinelibrary.wiley.com/toc/15406261/2026/81/3",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 13,
           "papers": [
             {
               "title": "Pricing of Climate Risk Insurance: Regulation and Cross‐Subsidies",
@@ -352,6 +360,10 @@
           "year_month": "2026-04",
           "issue_url": "https://onlinelibrary.wiley.com/toc/15406261/2026/81/2",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 13,
           "papers": [
             {
               "title": "Carbon Pricing versus Green Finance",
@@ -515,6 +527,10 @@
           "year_month": "2026-02",
           "issue_url": "https://onlinelibrary.wiley.com/toc/15406261/2026/81/1",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 12,
           "papers": [
             {
               "title": "What Drives Investors' Portfolio Choices? Separating Risk Preferences from Frictions",
@@ -675,6 +691,10 @@
           "year_month": "2026-10",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/184/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 11,
           "papers": [
             {
               "title": "Do proprietary traders provide liquidity?",
@@ -684,7 +704,7 @@
                 "Roni Michaely",
                 "Pamela C. Moulton"
               ],
-              "abstract": null,
+              "abstract": "Whether proprietary traders provide or take liquidity, and how their behavior evolves over the business cycle and across stocks, remains at the center of an ongoing debate. Using a unique dataset from the NYSE, we document that proprietary traders act as net liquidity providers, buying after price declines in a contrarian pattern. Proprietary trader liquidity provision is concentrated in large, liquid, low-volatility stocks and diminishes significantly when intermediary balance sheets are weak. Liquidity provision is stronger when price movements are plausibly not driven by information. Our findings highlight both the role and the limits of proprietary traders in supporting market liquidity across time and market segments.",
               "doi": "10.1016/j.jfineco.2026.104325",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104325",
               "pages": "104325"
@@ -696,7 +716,7 @@
                 "Yiming Ma",
                 "Yang Zhao"
               ],
-              "abstract": null,
+              "abstract": "We demonstrate the passthrough of Treasury supply to bank deposits through bank market power. We show that a larger Treasury supply crowds out deposits with disproportionate effects in more competitive deposit markets. A larger Treasury supply further curtails bank lending and affects bank funding structure. The explanatory power of Treasury supply is not driven by other shocks to deposit demand and supply. In comparison, monetary policy rate hikes have a larger impact on deposit funding in more concentrated markets, consistent with the deposits channel of monetary policy. Our empirical findings are rationalized in a model of imperfect deposit competition. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org .",
               "doi": "10.1016/j.jfineco.2026.104334",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104334",
               "pages": "104334"
@@ -707,7 +727,7 @@
                 "Alejandro Lopez-Lira",
                 "Yuehua Tang"
               ],
-              "abstract": null,
+              "abstract": "We document the capability of large language models (LLMs) like ChatGPT to predict stock market reactions from news headlines without direct financial training. Using post-knowledge-cutoff headlines, GPT-4 captures initial market responses, achieving approximately 90% portfolio-day hit rates for the non-tradable initial reaction. GPT-4 scores also significantly predict the subsequent drift, especially for small stocks and negative news. Forecasting ability generally increases with model size, suggesting that financial reasoning is an emerging capacity of complex LLMs. Strategy returns decline as LLM adoption rises, consistent with improved price efficiency. To rationalize these findings, we develop a theoretical model that incorporates LLM technology, information-processing capacity constraints, underreaction, and limits to arbitrage.",
               "doi": "10.1016/j.jfineco.2026.104335",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104335",
               "pages": "104335"
@@ -719,7 +739,7 @@
                 "Stavros Panageas",
                 "Anand Systla"
               ],
-              "abstract": null,
+              "abstract": "We evaluate private equity (PE) performance using investor-specific stochastic discount factors, and examine whether investors could benefit from changing their allocation to PE. Plans invest in PE funds with higher average risk-adjusted performance. This is mainly due to access to successful PE managers, not superior selection skill. Decomposing returns into risk-compensation and \"alpha\", we find that some plans obtain higher PE returns by taking more risk without earning higher, and in some cases earning lower, risk-adjusted returns, broadly consistent with agency problems within plans. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org .",
               "doi": "10.1016/j.jfineco.2026.104336",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104336",
               "pages": "104336"
@@ -729,7 +749,7 @@
               "authors": [
                 "Philippe van der Beck"
               ],
-              "abstract": null,
+              "abstract": "This paper studies the idea that investors’ portfolio holdings respond more elastically to price changes at long horizons than short horizons. Using investor trades – changes in portfolios – at different horizons, I present reduced-form evidence that elasticities increase significantly over time. To address the lack of valid instruments at long horizons, I propose a partial adjustment model that recovers dynamic elasticities from portfolio inertia. The estimates imply that price impacts are three times larger at quarterly horizons than in the long-run equilibrium. The model also produces a novel, stock-level measure of long-term reversal that avoids the noise of long-horizon return regressions.",
               "doi": "10.1016/j.jfineco.2026.104337",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104337",
               "pages": "104337"
@@ -754,7 +774,7 @@
                 "Robert J. Richmond",
                 "Tony Zhang"
               ],
-              "abstract": null,
+              "abstract": "We show long-term Treasury convenience yields are more sensitive to changes in Treasury supply than short-term Treasury convenience yields. The fiscal expansion in the past two decades and the resultant increase in Treasury supply depressed convenience yields heterogeneously across maturities — driving them close to zero for short-term Treasurys and into negative territory for long-term Treasurys. As a result, the aggregate seigniorage revenue earned by the U.S. from issuing safe and liquid financial assets has declined by a third. Issuing only short-term Treasurys could preserve the seigniorage revenue earned from Treasury convenience yields but would expose the government to more rollover risk. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org .",
               "doi": "10.1016/j.jfineco.2026.104347",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104347",
               "pages": "104347"
@@ -776,7 +796,7 @@
               "authors": [
                 "Taisiya Sikorskaya"
               ],
-              "abstract": null,
+              "abstract": "Institutions facilitate short-selling by lending from their holdings, but what they hold is endogenous. This paper examines how institutional demand, driven by investment mandates (benchmarking), affects short-selling. In a model where benchmarked managers lend from their holdings, both lending supply and equilibrium price are higher for the benchmark asset, and so is shorting demand (due to inflated price). A quasi-experiment using Russell index reconstitution shows that stocks with more benchmarked capital have greater lending supply and demand. Ultimately, such stocks are costlier to short. In theory and data, results are driven by incomplete pass-through from benchmarked capital to lending supply.",
               "doi": "10.1016/j.jfineco.2026.104349",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104349",
               "pages": "104349"
@@ -788,7 +808,7 @@
                 "Francisco Vazquez-Grande",
                 "David Lopez-Salido"
               ],
-              "abstract": null,
+              "abstract": "We present a production economy with nominal price rigidities that explains several asset pricing facts, including a downward-sloping term structure of the equity premium, upward sloping term structures of nominal and real interest rates, and the cyclical variation of the term structures. In the model, after a productivity shock a countercyclical labor share exacerbates the procyclicality of dividends, and hence their riskiness, and generates countercyclical inflation. The dividend share gradually increases after a negative productivity shock as the price level increases sluggishly, so the payoffs of short-duration dividend claims (bonds) are more (less) procyclical than the payoffs of long-duration claims (bonds). A slow-moving external habit then produces large and countercyclical prices for these risks as well as high risk premia at very long horizons. In bad times, the slope of equity (bond) yields for the observable maturities becomes more negative (more positive), but risk premia also increase at longer horizons, and market equity premia end up increasing by more than short-run equity premia. The simultaneous presence of market and home consumption habits allows for uniting habits and a production economy without compromising the model’s ability to fit macroeconomic variables. The central bank’s anti-inflationary stance plays a key role in shaping equity and bond prices.",
               "doi": "10.1016/j.jfineco.2026.104351",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104351",
               "pages": "104351"
@@ -798,7 +818,7 @@
               "authors": [
                 "Josef Schroth"
               ],
-              "abstract": null,
+              "abstract": "Are banks safer when they hold more safe assets or when monetary policy leans against economic downturns? This paper builds a model in which banks supply liquidity services through uninsured deposits. Banks consider equity costly and supply more deposits when holding more safe assets. Expansive monetary policy can reduce banks' losses on loans but also provides liquidity which shifts demand for bank deposits downward. The main result is that during normal times banks should hold fewer safe assets and more equity. Further, during crisis times the monetary-policy stance should be relatively tighter while banks rebuild their equity.",
               "doi": "10.1016/j.jfineco.2026.104352",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104352",
               "pages": "104352"
@@ -812,6 +832,10 @@
           "year_month": "2026-09",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/183/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 17,
           "papers": [
             {
               "title": "Are patents with female inventors under-cited? Evidence from text estimation",
@@ -821,7 +845,7 @@
                 "Peiyao Li",
                 "Kunal Sachdeva"
               ],
-              "abstract": null,
+              "abstract": "Utilizing leading machine learning techniques to analyze the textual content and quality of patents, we demonstrate that patents with female lead inventors are under-cited relative to what would be expected had the lead inventor been male. Male inventors are the greatest contributors to the undercitation of patents with female inventors, followed by female inventors and male examiners, while female patent examiners appear to be even-handed. Using market reactions to patents suggests no average difference in market value by the inventor’s gender. The results have potential implications for research conclusions that rely on citation-based assessments of patent quality.",
               "doi": "10.1016/j.jfineco.2026.104307",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104307",
               "pages": "104307"
@@ -834,7 +858,7 @@
                 "Amanda Liu",
                 "Frank Packer"
               ],
-              "abstract": null,
+              "abstract": "We develop a general equilibrium model in which firms issue nearly redundant securities to investor clienteles with participation constraints, with prices and demand determined endogenously in primary and secondary markets. The model characterizes how issuance costs, market frictions, and investor composition shape firms’ funding choices, equilibrium prices, and asset allocations. We test the model’s predictions using data from the Malaysian corporate bond market following the introduction of Islamic bonds. Consistent with the model, issuance decisions reflect trade-offs between collateral and liquidity benefits, Islamic and conventional bonds coexist without crowding out, and the expanded investor base increases access to debt financing.",
               "doi": "10.1016/j.jfineco.2026.104310",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104310",
               "pages": "104310"
@@ -856,7 +880,7 @@
               "authors": [
                 "Vincent Fardeau"
               ],
-              "abstract": null,
+              "abstract": "I characterize dynamic, nonstationary risk-sharing in a complete information setting among strategic traders submitting demand schedules and heterogeneous in risk aversion. In equilibrium, traders diversify at different speeds: smaller (more risk averse) traders diversify more aggressively due to endogenously lower price impact. This creates term structure effects, where small traders dynamically hedge the persistent order flow of larger, slower traders and arise as the marginal pricers at short horizons. A new equilibrium representation captures these mechanisms. An extension to anticipated supply and demand shocks generates the gradual, V-shaped price reactions observed around these events and delivers new predictions about institutional trading.",
               "doi": "10.1016/j.jfineco.2026.104319",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104319",
               "pages": "104319"
@@ -868,7 +892,7 @@
                 "Álvaro García-Marín",
                 "Tim Schmidt‐Eisenlohr"
               ],
-              "abstract": null,
+              "abstract": "Most domestic and international firm-to-firm transactions rely on trade credit, where sellers grant buyers time to pay the invoice after delivery. Exploiting Chilean and Colombian transaction-level trade data, this paper documents new facts about trade credit use: trade credit use increases with firm-to-firm relationship length, an effect that is stronger for destination (source) countries with weaker (stronger) contract enforcement and for trade in differentiated goods. The paper develops a model featuring enforcement frictions, learning, and a financing cost advantage of trade credit that can rationalize these patterns. Initially, as there is uncertainty about the reliability of the trading partner, payment risk is a key factor limiting the use of trade credit. Through learning, this uncertainty resolves within a relationship over time. For older relationships, the payment choice is, therefore, only determined by the financing cost advantage of trade credit, and all relationships rely on trade credit in the long run. The paper thereby suggests a new benefit of long-term trade relationships: the ability to save on financing costs through the use of trade credit.",
               "doi": "10.1016/j.jfineco.2026.104320",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104320",
               "pages": "104320"
@@ -880,7 +904,7 @@
                 "Thomas Giroux",
                 "Geoffrey Heal"
               ],
-              "abstract": null,
+              "abstract": "Blended finance—the use of public and philanthropic funding to crowd in private capital—has emerged as a potential tool for financing sustainable development. Yet little is known about the design of blended finance contracts. We develop a conceptual framework in which development finance institutions (DFIs) allocate concessional capital across projects to maximize societal impact while crowding in private investors. Our framework highlights a trade-off between sustainability impact and the amount of concessionality required to make projects commercially viable and characterizes how DFIs optimally combine different instruments, including concessional debt, junior equity tranches, and risk management facilities. We then provide empirical evidence on blended finance using deal-level data from a major DFI. Consistent with our conceptual framework, projects with higher anticipated sustainability impact receive greater concessionality. Moreover, concessionality is higher in countries with greater political risk and information asymmetries, and these projects are more likely to include risk management provisions. Our findings provide new evidence on how DFIs deploy catalytic capital to mobilize private investment in sustainable development.",
               "doi": "10.1016/j.jfineco.2026.104321",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104321",
               "pages": "104321"
@@ -891,7 +915,7 @@
                 "Michael Woeppel",
                 "M. Deniz Yavuz"
               ],
-              "abstract": null,
+              "abstract": "As the economy has become increasingly knowledge-based, firms' capability to benefit from external knowledge has grown in importance. We construct a measure of this capability - absorption intensity - from information in firms' patents. To validate the measure, we exploit the American Inventors Protection Act (AIPA), which exogenously increased patent information availability. A triple-difference design shows that firms with higher absorption intensity experience greater innovation growth when more exposed to the reform. Beyond AIPA, absorption intensity predicts stronger innovation outcomes and firm growth. Our measure offers a tool to study how differences in absorption capability shape returns to external knowledge.",
               "doi": "10.1016/j.jfineco.2026.104322",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104322",
               "pages": "104322"
@@ -902,7 +926,7 @@
                 "Laura Anne Lindsey",
                 "Luke C.D. Stein"
               ],
-              "abstract": null,
+              "abstract": "This paper examines the effects of a shock to angel finance on entrepreneurial activity. Using U.S. Census data, we estimate the state-level fraction of households that lost accreditation status from Dodd–Frank’s elimination of housing wealth in determining accreditation. A larger reduction in the pool of potential investors reduces angel investment, firm entry, and employment at small entrants. Employment increases at small and young incumbents, suggesting competitive effects. Though we document partial substitution, angel finance appears to complement other capital sources in the entrepreneurial ecosystem. Our paper offers insight on the impact of angel finance and where it matters most.",
               "doi": "10.1016/j.jfineco.2026.104323",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104323",
               "pages": "104323"
@@ -913,7 +937,7 @@
                 "Lu Xu",
                 "Lingxuan Wu"
               ],
-              "abstract": null,
+              "abstract": "We show that institutional portfolio rebalancing across asset classes plays a key role in transmitting monetary shocks to the stock market. Around FOMC announcements, ceteris paribus , a stock with 10-percentage-point higher ownership by rebalancing institutions experiences an additional 3.7-basis-point loss following a 10-basis-point surprise rate hike. We corroborate our mechanism by exploiting within-firm variations for dual shares, showing stronger price reactions at quarter- and month-ends when rebalancing is more imminent, and presenting placebo tests contrasting rebalancing institutions with other institutions. A concluding calibration suggests rebalancing could contribute roughly one-third to two-thirds of the aggregate stock market excess return response to monetary shocks.",
               "doi": "10.1016/j.jfineco.2026.104324",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104324",
               "pages": "104324"
@@ -935,7 +959,7 @@
               "authors": [
                 "Hao Pang"
               ],
-              "abstract": null,
+              "abstract": "I show that the overreaction of the long-term yield forecasts to yield news, evidenced in recent studies, results directly from the overreaction of long-horizon inflation forecasts to inflation news. Motivated by this finding, I study how agents form inflation expectations across forecast horizons. Short-horizon survey forecasts underreact, while long-horizon forecasts overreact to inflation news. To reconcile this behavior, I implement a long-run bias, building on the widely shared intuition that agents conflate transitory with permanent shocks, within a realistic trend-gap inflation model. I embed this bias within a yield curve model. The long-horizon inflation expectations overreaction translates into a long-term yields’ overreaction, generating excess yield sensitivity to news. The model implies a long-term bond risk premium substantially less volatile and cyclical than that implied by predictive regressions or estimates imposing full-information rational expectations.",
               "doi": "10.1016/j.jfineco.2026.104327",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104327",
               "pages": "104327"
@@ -947,7 +971,7 @@
                 "Johannes Stroebel",
                 "Julian Terstegge"
               ],
-              "abstract": null,
+              "abstract": "We study the effects of carbon price uncertainty on firms&apos; decisions to decarbonize their operations. We first use information on the pricing of options on emission allowances in the European Emissions Trading System to create the Carbon VIX, a market-based high-frequency measure of carbon price uncertainty. Carbon price uncertainty is high, varies substantially over time, and experiences persistent shocks around major climate policy events. To explore the effects of carbon price uncertainty on expected aggregate decarbonization investments, we analyze its effect on the stock returns of firms that help other businesses decarbonize. To identify these \"carbon solution providers,\" we extract common types of decarbonization investments from a large survey of firms, and then identify companies that offer the associated goods and services. We find that the stock returns of these carbon solution providers vary positively with carbon prices, but negatively with carbon price uncertainty. The effect of increases in carbon price uncertainty on our proxy for expected decarbonization investments is economically large and of similar magnitude as the effect of declines in carbon prices. These findings support predictions from real options theory that firms may delay investments in decarbonization when faced with uncertainty about the future costs of emissions.",
               "doi": "10.1016/j.jfineco.2026.104328",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104328",
               "pages": "104328"
@@ -957,7 +981,7 @@
               "authors": [
                 "Yuanzhen Lyu"
               ],
-              "abstract": null,
+              "abstract": "I document robust U.S. and international evidence that aggregate corporate cash savings negatively forecast future excess market returns, with economic uncertainty an important driver of this relation. In a calibrated neoclassical dynamic model featuring precautionary savings, I show that fixed financing costs, firm exit, and an uncertainty‑driven time‑varying price of risk are crucial to replicating this return predictability. The model further implies that the well‑known positive return predictive power of aggregate accruals is largely attributable to aggregate cash savings, and the data support this implication.",
               "doi": "10.1016/j.jfineco.2026.104329",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104329",
               "pages": "104329"
@@ -971,7 +995,7 @@
                 "Jason D. Kotter",
                 "Kevin Pisciotta"
               ],
-              "abstract": null,
+              "abstract": "We estimate the causal effect of online sports betting on households&apos; investment, spending, and debt management decisions using household transaction data and a staggered difference-in-differences framework. Following legalization, sports betting spreads quickly, with both the number of participants and frequency of bets increasing over time. This increase does not displace other gambling or consumption but significantly reduces savings, as risky bets crowd out positive expected value investments. These effects concentrate among financially constrained households, as credit card debt increases, available credit decreases, and overdraft frequency rises. Our findings highlight the potential adverse effects of online sports betting on vulnerable households.",
               "doi": "10.1016/j.jfineco.2026.104330",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104330",
               "pages": "104330"
@@ -983,7 +1007,7 @@
                 "Emmanuel Yimfor",
                 "Ye Zhang"
               ],
-              "abstract": null,
+              "abstract": "Institutional and individual investors evaluate private market opportunities systematically differently, even facing identical choices. In a survey experiment, 593 institutional and 445 individual investors assess venture capital fund profiles with independently randomized GP characteristics. Institutions heavily weight past fund performance, consistent with risk-averse investor demand calibrated to VC markets. Individuals largely ignore performance, favoring educational credentials instead. A follow-up experiment identifies two independent mechanisms: individuals lack awareness that VC performance persists and discount quality signals for funds they perceive as inaccessible. Performance-based selection alone reduces individuals’ expected returns by approximately 7%, accounting for 20% of the return gap with professionals.",
               "doi": "10.1016/j.jfineco.2026.104331",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104331",
               "pages": "104331"
@@ -995,7 +1019,7 @@
                 "Renping Li",
                 "Alminas Zaldokas"
               ],
-              "abstract": null,
+              "abstract": "A firm’s gross margin increases by 0.8 p.p. after forming a new direct board connection to a product market peer. Gross margin also rises by 0.4 p.p. after a connection is formed to a peer indirectly through a third intermediate firm. Further, using barcode-level data of 2.7 million products, we show that new board connections are related to higher consumer good prices, a greater tendency for market allocation, and slower new product introductions. The effects are stronger when the newly connected peers share corporate customers or have similar business descriptions and hold when controlling for other inter-firm relationships.",
               "doi": "10.1016/j.jfineco.2026.104332",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104332",
               "pages": "104332"
@@ -1007,7 +1031,7 @@
                 "Hosein Maleki",
                 "Pavel G. Savor"
               ],
-              "abstract": null,
+              "abstract": "Using close elections as an empirical setting, this paper examines the drivers and consequences of politically motivated lending by U.S. banks, with a special focus on resulting benefits. We first show that firms with ties to members of Congress receive more favorable loan terms, despite no observable improvements in performance or default risk. The effect is especially pronounced among banks facing regulatory challenges — such as FDIC enforcement actions, corporate misconduct investigations, or low Community Reinvestment Act ratings — which also lend more frequently to connected firms, suggesting that these institutions have a heightened demand for political influence. Crucially, we find that politically motivated lending produces tangible future benefits for banks, including reduced misconduct penalties and easier approval for mergers and acquisitions. These findings provide evidence of a quid pro quo dynamic: banks extend preferential credit to firms with political connections and, in turn, receive regulatory advantages.",
               "doi": "10.1016/j.jfineco.2026.104333",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104333",
               "pages": "104333"
@@ -1021,6 +1045,10 @@
           "year_month": "2026-08",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/182/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 6,
           "papers": [
             {
               "title": "Government debt management and inflation with real and nominal bonds",
@@ -1029,7 +1057,7 @@
                 "Vytautas Valaitis",
                 "Alessandro T. Villa"
               ],
-              "abstract": null,
+              "abstract": "In the wake of rising inflation in the aftermath of unprecedented debt financed stimulus packages, we ask: Can governments use real bonds (TIPS) as part of their debt portfolio to commit to stable inflation rates? We propose a novel framework of optimal debt management in the presence of sticky prices with a government that can issue nominal and real non state-contingent bonds. Nominal debt can be inflated away giving ex-ante flexibility, whereas real bonds are cheaper but constitute a real commitment ex-post. Under Full Commitment, the government chooses a leveraged portfolio of nominal liabilities and real assets to use inflation effectively to smooth fiscal policy. When the government cannot commit to future policies, it reduces borrowing costs ex ante using real debt strategically to mitigate incentives for the future government to monetize debt ex-post. Without commitment, the policies are quantitatively consistent with US data, suggesting that such a framework realistically captures the relevant constraints governments face.",
               "doi": "10.1016/j.jfineco.2026.104293",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104293",
               "pages": "104293"
@@ -1092,7 +1120,7 @@
                 "Arkodipta Sarkar",
                 "Jian Zhang"
               ],
-              "abstract": null,
+              "abstract": "We study exposure to pollution information and investment portfolio allocations, exploiting the rollout of air quality monitoring stations in India. Using a triple-differences framework, we show that retail investors&apos; investments in \"brown\" stocks are negatively related to local air pollution after a monitoring station appears nearby, with particularly pronounced effects on ``alert&apos;&apos; dates when air quality is listed as harmful to the general population. The effect of pollution information on investment choices is most prominent amongst tech-savvy investors who are most plausibly \"treated\" by real-time pollution data, and by younger investors who tend to be more sensitive to environmental concerns. Overall, our results provide micro-level support for the view that salience of environmental conditions affect investors&apos; tastes for green investments, and preferences for environmental amenities more generally.",
               "doi": "10.1016/j.jfineco.2026.104309",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104309",
               "pages": "104309"
@@ -1106,6 +1134,10 @@
           "year_month": "2026-07",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/181/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 8,
           "papers": [
             {
               "title": "Sustainable investing and market governance",
@@ -1114,7 +1146,7 @@
                 "Deeksha Gupta",
                 "Jan Starmans"
               ],
-              "abstract": null,
+              "abstract": "This paper examines how sustainable investing affects the governance role of financial markets. We show that stronger concerns about externalities among informed investors can reduce price informativeness about managerial effort to improve financial performance, increasing the cost of incentive provision. This mechanism creates an inherent link between firms' environmental and social (ES) and governance quality. We show that the agency costs of sustainable investing can have real effects on ES outcomes when firms can affect their externalities.",
               "doi": "10.1016/j.jfineco.2026.104273",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104273",
               "pages": "104273"
@@ -1128,7 +1160,7 @@
                 "Billy Xu",
                 "Lawrence Chengzhi Zhao"
               ],
-              "abstract": null,
+              "abstract": "This study examines the effect of Department of Justice lawsuits in the 2010s against large lenders for alleged fraud in the Federal Housing Administration (FHA) mortgage insurance program. The suits led to over $5 billion in settlements and caused targeted banks and their peers to precipitously exit the FHA market. Difference-in-differences and triple differences tests exploiting geographic variation in exposure to exiting banks show an 18% reduction in FHA lending in heavily exposed areas. This reduction was not associated with improved underwriting standards or lower default rates. Large banks’ FHA exit has significantly reduced low-income households’ overall access to mortgage credit.",
               "doi": "10.1016/j.jfineco.2026.104279",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104279",
               "pages": "104279"
@@ -1150,7 +1182,7 @@
                 "Teng Huang",
                 "Stefano Sacchetto"
               ],
-              "abstract": null,
+              "abstract": "We study the rationale behind firms’ investment in risky financial assets by formulating and estimating a dynamic model in which firms allocate their precautionary savings to both safe and risky securities. In equilibrium, risky financial asset holdings are positively related to the sensitivity of a firm’s financing deficit to the risky asset returns—the “financing deficit beta”. Using a comprehensive sample of US corporate financial asset holdings, we find evidence of a positive correlation between risky financial asset holdings and financing deficit betas that capture firms’ incentives to hedge interest-rate risk. Precautionary motives are stronger in small, high-volatility, and R&D-intensive firms.",
               "doi": "10.1016/j.jfineco.2026.104283",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104283",
               "pages": "104283"
@@ -1199,7 +1231,7 @@
                 "Martin Lettau",
                 "Abdolreza Nazemi"
               ],
-              "abstract": null,
+              "abstract": "Machine learning methods in asset pricing are often criticized for their black box nature. We study this issue by predicting corporate bond returns using interpretable machine learning on a high-dimensional bond charac-teristics data set. We achieve state-of-the-art performance while maintaining an interpretable model structure, overcoming the accuracy-interpretability trade-off. The estimation uncovers nonlinear relationships and eco-nomically meaningful interactions in bond pricing, notably related to term structure and macroeconomic un-certainty. Subsample analysis reveals stronger sensitivities to these effects for small firms and long-maturity bonds. Finally, we demonstrate how interpretable models enhance transparency in portfolio construction by providing ex ante insights into portfolio composition.",
               "doi": "10.1016/j.jfineco.2026.104294",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104294",
               "pages": "104294"
@@ -1213,6 +1245,10 @@
           "year_month": "2026-06",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/180/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 9,
           "papers": [
             {
               "title": "Operational shorting and ETF liquidity provision",
@@ -1222,7 +1258,7 @@
                 "Michael S. Pagano",
                 "John Sedunov"
               ],
-              "abstract": null,
+              "abstract": "Due to a regulatory exemption, ETF market makers can satisfy excess demand in secondary markets by selling ETF shares that have not yet been created. While this ability to “operationally short” is not unique to ETFs, it plays a more prominent role in ETF liquidity provision, and results in elevated ETF failures-to-deliver. We propose a novel measure for “operational shorting” and show it is associated with improved liquidity and greater price efficiency in the ETF underlying securities. Higher retail trading activity and short-term return reversals are also consistent with liquidity-supplying motives rather than informed trading. Consequently, delayed ETF creation to cover operational shorts is found to be a valuable option in the presence of retail trading and liquidity mismatches between the ETF and its underlying securities.",
               "doi": "10.1016/j.jfineco.2026.104241",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104241",
               "pages": "104241"
@@ -1247,7 +1283,7 @@
                 "Shaoran Li",
                 "Oliver Linton"
               ],
-              "abstract": null,
+              "abstract": "This paper introduces a Peer Index (PI) constructed from economically motivated peer networks that summarizes (i) the strength of a firm’s peers and (ii) the firm’s position within its peer group. PI predicts stock returns and earnings surprises over short and long horizons. Machine-learning models based solely on firm-level characteristics do not subsume PI’s predictive power, supporting the interpretation that it captures genuine cross-stock information. Lag-augmented local projections show that positive PI innovations are followed by higher next-month returns that gradually decay without reversal, consistent with slow diffusion of peer information into prices.",
               "doi": "10.1016/j.jfineco.2026.104274",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104274",
               "pages": "104274"
@@ -1272,7 +1308,7 @@
                 "Elvira Sojli",
                 "Leo Liu"
               ],
-              "abstract": null,
+              "abstract": "This paper studies the interaction between process and product innovations and their distinct role in firm growth dynamics. We differentiate empirically and theoretically two types of process innovations: foundational processes that advance production technology and cost-reducing processes that enhance existing production efficiency. We develop an innovation model of product varieties with quality heterogeneity to illustrate how these innovations impact firm growth differently and highlight how process innovation induces product innovation. By analyzing millions of patent texts from 1900 to 2020, we classify innovations into product, cost-reducing process, and foundational process innovations. We find that foundational processes lead to sustained firm growth, especially through their effect on subsequent product creation. R&D-intensive firms focused on “deep-tech” innovations have an advantage in creating foundational processes, resulting in superior product quality. Using patents linked to FDA-approved drugs, we show that firms with a comparative advantage in creating foundational processes, due to greater knowledge and technological stock, tend to produce higher-value products.",
               "doi": "10.1016/j.jfineco.2026.104276",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104276",
               "pages": "104276"
@@ -1295,7 +1331,7 @@
                 "Zack Liu",
                 "Malcolm Wardlaw"
               ],
-              "abstract": null,
+              "abstract": "Confounding events can cause false positives when testing the relationship between short-term returns around a quasi-experimental event and firm characteristics. We show that this risk is severe in practice-return-characteristic relationships are often statistically significant at the 1% level on over 30% of all trading days. Benchmarking a relationship against the distribution of the same relationship on pre-event days is effective at addressing the problem. We introduce a novel GLS variation of this approach that achieves large gains in statistical power relative to OLS and provide a Stata module that implements both procedures.",
               "doi": "10.1016/j.jfineco.2026.104278",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104278",
               "pages": "104278"
@@ -1317,7 +1353,7 @@
                 "Julia Schmidt",
                 "Riccardo Zago"
               ],
-              "abstract": null,
+              "abstract": "When a technology becomes the new standard, the firms that are leaders in producing this technology gain a competitive advantage. Matching the semantic content of patents to standard documents, we show that firms closer to the new technology standard increase their market share and sales. In addition, if they operate in a competitive market, these firms also increase their R&D expenditure. Yet, these effects are temporary since standardization creates a common technological basis for everyone, which allows followers to catch up and the economy to grow.",
               "doi": "10.1016/j.jfineco.2026.104281",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104281",
               "pages": "104281"
@@ -1331,6 +1367,10 @@
           "year_month": "2026-05",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/179/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 5,
           "papers": [
             {
               "title": "Liquidity characteristics of market anomalies and institutional trading",
@@ -1340,7 +1380,7 @@
                 "Yao Tong",
                 "Andrew Zhang"
               ],
-              "abstract": null,
+              "abstract": "We find that market anomalies exhibit heterogeneous liquidity characteristics, which go a long way to explain heterogeneous institutional trading patterns on anomalies. Long-short portfolios based on long-horizon (short-horizon) anomalies have liquidity-provision (liquidity-demanding) characteristics. Consistent with their liquidity preferences, institutional investors tend to trade in the wrong (right) direction of long-horizon (short-horizon) anomalies. Analyses based on exogenous measures of institutional liquidity preferences and exogenous liquidity shocks highlight the causal effect of liquidity on institutional trading patterns. Finally, different from the perception that liquidity improves market efficiency, we find that liquidity can exacerbate the magnitude of anomalies via affecting institutional trading.",
               "doi": "10.1016/j.jfineco.2026.104254",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104254",
               "pages": "104254"
@@ -1351,7 +1391,7 @@
                 "Eirik Eylands Brandsaas",
                 "Jens Soerlie Kvaerner"
               ],
-              "abstract": null,
+              "abstract": "A convex combination of renting and traditional homeownership—Partial Ownership (PO)—is increasingly popular in many countries. We incorporate an existing for-profit PO contract into a life-cycle model to quantify its impact on housing investments, households’ welfare, and financial stability. We have three results: 1) PO makes more households invest in (some) housing. 2) Willingness to pay for PO increases with housing unaffordability and is highest among low-income and renting households. 3) PO increases the mean DTI in the population while compressing the right tail, and it lowers defaults under a house price collapse and a rise in aggregate unemployment.",
               "doi": "10.1016/j.jfineco.2026.104256",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104256",
               "pages": "104256"
@@ -1363,7 +1403,7 @@
                 "Stanislav Sokolinski",
                 "Andrea Tamoni"
               ],
-              "abstract": null,
+              "abstract": "We decompose variation in anomaly returns across investor types and trading motives, linking returns to holdings within a demand system. Fundamental-based trading is the primary driver of anomalies, and both this channel and non-fundamental trading are driven disproportionately by small investors. Institution-led channels — flows and industry tilts — are secondary and concentrated in specific anomalies. These patterns favor theories with heterogeneous investors and distinct trading behaviors over pure flow- or risk-only explanations. Small investors account for a large share of the cash-flow news component of fundamentals-based trading, suggesting that biases in processing information play a role in anomaly returns.",
               "doi": "10.1016/j.jfineco.2026.104257",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104257",
               "pages": "104257"
@@ -1375,7 +1415,7 @@
                 "Ernest Liu",
                 "Holger Mueller"
               ],
-              "abstract": null,
+              "abstract": "The vast majority of U.S. inventors work for firms that also have inventors and plants in other tech clusters. Using merged USPTO–U.S. Census Bureau plant-level data, we show that larger tech clusters not only make local inventors more productive but also raise the productivity of inventors and plants in distant clusters, which are connected to the focal cluster through their parent firms’ networks of innovating plants. To rationalize these findings, we develop a tractable model of spatial innovation that features both within- and cross-cluster innovation spillovers. Within our model, we derive a sufficient statistic for the wedge between the social and private returns to innovation in a given location. Taking the model to the data, we find a 41% correlation between the location wedges and locations’ connectedness to other tech clusters.",
               "doi": "10.1016/j.jfineco.2026.104264",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104264",
               "pages": "104264"
@@ -1387,7 +1427,7 @@
                 "Yannick Timmer",
                 "Naoki Yago"
               ],
-              "abstract": null,
+              "abstract": "This paper studies the spillovers of US monetary policy and the mitigating role of foreign exchange interventions (FXI) by combining deviations from a daily FXI policy rule with high-frequency US monetary policy shocks, daily exchange rates, and firm-level stock prices, as well as firm-level balance sheet variables across several countries. We first present evidence that–without interventions– contractionary US monetary policy shocks spill over through a balance sheet channel: foreign exchange rates depreciate and stock prices fall, driven by those firms with US dollar debt. However, when countries counter-intervene, the spillover of US monetary policy tightening is muted. FXIs entirely offset the depreciation of the domestic exchange rate and the reduction in stock price for firms with US dollar debt, suggesting that “intervening against the Fed\" protects economies from the adverse spillover of US monetary policy tightening through the balance sheet channel of exchange rates.",
               "doi": "10.1016/j.jfineco.2026.104265",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104265",
               "pages": "104265"
@@ -1401,6 +1441,10 @@
           "year_month": "2026-04",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/178/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 8,
           "papers": [
             {
               "title": "Hidden alpha",
@@ -1420,7 +1464,7 @@
               "authors": [
                 "George C. Nurisso"
               ],
-              "abstract": null,
+              "abstract": "Short sellers convey negative information to securities lenders when borrowing shares. I model how this information generates novel interactions between institutional investors’ lending and trading decisions. Lower lending fees improve information quality by facilitating more shorting, but also make it less costly for lenders to strategically recall shares to enhance their trading profits. Lenders may then need to raise fees to commit not to recall shares and thereby attract short sellers. Conversely, index fund lenders cannot trade on lending market information. This restriction enables them to attract greater shorting demand and potentially improve price efficiency—despite charging higher fees.",
               "doi": "10.1016/j.jfineco.2026.104237",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104237",
               "pages": "104237"
@@ -1434,7 +1478,7 @@
                 "Shaoteng Li",
                 "Nicolas Vincent"
               ],
-              "abstract": null,
+              "abstract": "In many countries, the cost of housing has greatly outpaced income growth, leading to an affordability crisis. Leveraging Canadian loan-level data, we document an increasing reliance of first-time home-buyers on financial help from their parents through mortgage co-signing. We show that parental support can effectively relax the borrowing constraints of their adult children, and allow them to enter the housing market early. However, we also identify a novel channel through which parental support could increase borrower vulnerabilities. Co-signing incentivizes adult children to lever up and purchase housing beyond what they can afford, exposing them to a greater risk of financial stress.",
               "doi": "10.1016/j.jfineco.2026.104239",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104239",
               "pages": "104239"
@@ -1447,7 +1491,7 @@
                 "Alan D. Crane",
                 "John R. Graham"
               ],
-              "abstract": null,
+              "abstract": "CFOs report using elevated hurdle rates that average 6.6 percentage points above the cost of capital. We show that hurdle rate buffers act as a commitment device and convey a bargaining advantage over counterparties during project development and M&amp;A. This benefit can exceed the opportunity cost of forgone projects and acquisitions, preserving firm value. Consistent with our model, bidders’ elevated hurdle rates in M&amp;A deals associate with higher surplus capture ex post; in CFO survey data, hurdle rate buffers negatively relate to ex ante bargaining power, and realized returns cluster just above elevated hurdle rates.",
               "doi": "10.1016/j.jfineco.2026.104240",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104240",
               "pages": "104240"
@@ -1457,7 +1501,7 @@
               "authors": [
                 "Jules H. van Binsbergen"
               ],
-              "abstract": null,
+              "abstract": "Using a panel of international government bond data, I construct fixed income portfolios that match the duration of the dividend strips of the corresponding local aggregate stock market index. I find that these bond portfolios have performed as well as --if not better than --their stock counterparts in the past half century while exhibiting similar (or even higher) levels of volatility. These results provide a novel perspective on both the equity risk premium and excess volatility puzzles (bubbles). I present several potential explanations, and discuss further the implications for macroeconomics, monetary economics, asset pricing, and corporate finance.",
               "doi": "10.1016/j.jfineco.2026.104248",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104248",
               "pages": "104248"
@@ -1479,7 +1523,7 @@
                 "Sunil Wahal",
                 "M. Deniz Yavuz"
               ],
-              "abstract": null,
+              "abstract": "We study the selection of private market managers (GPs) for over 63,000 capital commitments by institutional investors (LPs) from a feasible opportunity set. LPs chase past performance but also seem surprisingly willing to invest in GPs without a track record: the probability that LPs select first-time or young GPs is quantitatively similar to GPs in the highest quartile of past performance. The most plausible explanation is that there is demand for exposure to private markets that is not fulfilled by incumbent GPs. This proclivity to invest in first-time or young GPs is not associated with higher future performance.",
               "doi": "10.1016/j.jfineco.2026.104250",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104250",
               "pages": "104250"
@@ -1491,7 +1535,7 @@
                 "Mehran Ebrahimian",
                 "Constantine Yannelis"
               ],
-              "abstract": null,
+              "abstract": "Using credit bureau data, we show that nearly half the increase in student debt since 2010 is due to deferred payments and the expansion of income-driven repayment (IDR) plans. These plans help borrowers smooth consumption, insure income risk, and reduce the effective debt cost. Using a life-cycle model, we quantify the welfare gains from this payment deferment and the channels through which welfare increases. New, more generous rules further subsidize borrowers without yielding net welfare gains. We show that an optimally calibrated plan can achieve similar welfare gains at a much lower cost to taxpayers, and without encouraging additional borrowing.",
               "doi": "10.1016/j.jfineco.2026.104253",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104253",
               "pages": "104253"
@@ -1505,6 +1549,10 @@
           "year_month": "2026-03",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/177/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "The incentives of SPAC sponsors",
@@ -1515,7 +1563,7 @@
                 "Wenyu Wang",
                 "Yufeng Wu"
               ],
-              "abstract": null,
+              "abstract": "Special Purpose Acquisition Companies (SPACs) took Wall Street by storm in 2020/2021 and continue to play a significant role in today’s capital markets. Estimating a structural model using a hand-collected comprehensive dataset, we find that SPACs add value by identifying and bringing high-potential firms to public markets, though contractual frictions skew the distribution of spoils away from SPAC shareholders and towards sponsors and target owners. Nonetheless, shareholder excess returns are positive once redemptions are accounted for. Policy analyses reveal that earnout provisions enhance welfare, while modest improvements in disclosure and limits on warrant usage have minimal impact on improving outcomes.",
               "doi": "10.1016/j.jfineco.2025.104220",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104220",
               "pages": "104220"
@@ -1527,7 +1575,7 @@
                 "Antoine Didisheim",
                 "Simon Scheidegger"
               ],
-              "abstract": null,
+              "abstract": "We introduce “deep surrogates” – high-precision approximations of structural models based on deep neural networks, which speed up model evaluation and estimation by orders of magnitude and allow for various compute-intensive applications that were previously infeasible. As an application, we build a deep surrogate for a high-dimensional workhorse option pricing model. The surrogate enables us to re-estimate the model at high frequency to construct an option-implied tail risk measure, which is highly predictive of future market crashes. It also helps us systematically examine the model’s out-of-sample performance, which reveals the tradeoffs between structural and reduced-form approaches for option pricing. Moreover, we construct a measure for the degree of parameter instability and connect it to option market illiquidity in the data. Finally, we use the surrogate to construct conditional distributions of option returns, which is useful for risk management and provides a new way to test the model.",
               "doi": "10.1016/j.jfineco.2025.104222",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104222",
               "pages": "104222"
@@ -1540,7 +1588,7 @@
                 "Oliver G. Spalt",
                 "Leah Zimmerer"
               ],
-              "abstract": null,
+              "abstract": "We study the equity market implications of a reform in the fiduciary laws that govern trust investments (prudent man laws), implemented in a staggered fashion across U.S. states from 1985 to 2006. As trusts account for a substantial fraction of institutional equity holdings in our sample period, and since the reform does not pertain to other investors, our empirical setting provides a rare opportunity to study the impact of a regulatory change on institutional investor holdings and relative prices in the U.S. equity market. We show that, before the reform, trusts tilt their portfolios towards prudent stocks. After the law change, trusts undo these tilts, which leads to substantial changes in portfolio performance, investor demand, and stock returns, consistent with a model of inelastic equity markets. More broadly, our paper documents a striking case of investment distortions: while the concept of diversification has been playing a key role in asset pricing theory since the 1950s, fiduciary duties severely constrained trusts' ability to diversify their portfolios for up to half a century later.",
               "doi": "10.1016/j.jfineco.2025.104227",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104227",
               "pages": "104227"
@@ -1551,7 +1599,7 @@
                 "Andrés Sarto",
                 "Olivier Wang"
               ],
-              "abstract": null,
+              "abstract": "Over the past two decades, shadow banks have significantly expanded their share of residential mortgage lending, even surpassing pre-financial crisis levels. This surge is often attributed to post-crisis regulatory changes and improvements in shadow banks’ technology. In this paper, we document a new driving force: the persistent decline in interest rates. When interest rates are high, cheap deposit funding provides banks with a significant competitive advantage against shadow banks relying on wholesale funding. As interest rates plummet, banks lose this advantage, experience a squeeze in their net interest margin, leading to diminished profitability, weaker growth, and cost-cutting measures such as branch closures. By contrast, shadow banks are able to gain market share. We test this mechanism using a shift-share empirical design based on differences in historical bank balance sheet composition. We find that banks more vulnerable to falling interest rates contracted lending as a response to lower profitability while also scaling back non-interest expenses on their branches. This created a fertile environment for non-banks to expand in areas with banks exposed to declining interest rates.",
               "doi": "10.1016/j.jfineco.2025.104228",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104228",
               "pages": "104228"
@@ -1575,7 +1623,7 @@
                 "S. Lakshmi Naaraayanan",
                 "Varun Sharma"
               ],
-              "abstract": null,
+              "abstract": "Operation of residential buildings is responsible for roughly 22% of global energy consumption and 17% of CO2 emissions. We study the investments triggered by a regulatory intervention requiring rented properties to satisfy minimum energy efficiency standards. The analysis shows significant investments in low capital expenditure retrofits. Using an instrumented difference-in-differences methodology, we show that the investments do not have an economically significant impact on rents, so that landlords are not compensated for them.",
               "doi": "10.1016/j.jfineco.2026.104236",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104236",
               "pages": "104236"
@@ -1588,7 +1636,7 @@
                 "Brian Roseman",
                 "Yanbin Wu"
               ],
-              "abstract": null,
+              "abstract": "Retail option traders are typically net purchasers of short-dated options, especially out-of-the money contracts, whereas they frequently sell long-dated options. Using retail brokerage platform outages as shocks to trading, we find that outages are associated with commensurate demand shocks to implied volatility. Outages produce lower implied volatility on average, with stronger reductions for options that tend to be purchased by retail investors. In contrast, implied volatility increases for long-dated options during outages, consistent with reduced retail writing activity. The findings suggest that retail demand pressure can have important effects on the implied volatility term structure, moneyness curve, and call-put spread.",
               "doi": "10.1016/j.jfineco.2026.104238",
               "url": "https://doi.org/10.1016/j.jfineco.2026.104238",
               "pages": "104238"
@@ -1602,6 +1650,10 @@
           "year_month": "2026-02",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/176/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 15,
           "papers": [
             {
               "title": "Windfall income shocks with finite planning horizons",
@@ -1621,7 +1673,7 @@
                 "Stijn Van Nieuwerburgh",
                 "Mindy Z. Xiaolan"
               ],
-              "abstract": null,
+              "abstract": "Governments face a trade-off between insuring households who pay taxes and receive transfers and bondholders against aggregate output risk. Insulating bondholders by keeping the debt risk-free imposes tight restrictions on the expected primary surplus process and its covariance with aggregate shocks. Through counter-cyclical debt issuance, the government can protect taxpayers against adverse economic shocks over short horizons, but not over longer horizons. The restrictions imposed by risk-free debt on expected surpluses are rejected in US data. If the portfolio of U.S. Treasurys were risk-free, then Treasury investors would have been expecting large primary surpluses since the GFC. Such surpluses never materialized even though r",
               "doi": "10.1016/j.jfineco.2025.104203",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104203",
               "pages": "104203"
@@ -1632,7 +1684,7 @@
                 "João Granja",
                 "Nuno Paixão"
               ],
-              "abstract": null,
+              "abstract": "We evaluate how bank mergers affect consumer welfare when banks set deposit rates with a high degree of uniformity across their branch networks. First, we document that merger-induced changes to local market concentration are only weakly correlated with pricing decisions. Second, we develop a structural model of the banking sector to simulate equilibrium post-merger deposit rates with and without uniform pricing. The simulated deposit rates from the model with uniform pricing best match the observed changes in deposit rates following bank mergers. We use the model to evaluate antitrust decisions that force acquirers to divest branches in order to contain local market concentration levels. Our counterfactual exercises suggest that forced divestitures sometimes improve consumer welfare but can also impose consumer welfare losses when antitrust regulators do not consider that uniform pricing practices might lead to better deposit rates at acquired branches after a merger.",
               "doi": "10.1016/j.jfineco.2025.104204",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104204",
               "pages": "104204"
@@ -1642,7 +1694,7 @@
               "authors": [
                 "Pawel Janas"
               ],
-              "abstract": null,
+              "abstract": "I examine the effects of public debt on municipal services and real outcomes during financial crises using a unique archival dataset of U.S. cities from 1924 to 1943. Unlike today’s countercyclical fiscal policies, the Great Depression provides a rare setting to observe fiscal shocks without substantial intergovernmental or Federal Reserve support. My findings show that financial market frictions – especially the need to refinance debt – led cities to sharply cut expenditures, particularly on capital projects and police services. As urban development halted during the Depression, cities with high pre-crisis debt levels faced significant austerity pressures, a decline in population growth, a rise in crime, and a departure of skilled public servants from municipal governments. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org .",
               "doi": "10.1016/j.jfineco.2025.104205",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104205",
               "pages": "104205"
@@ -1653,7 +1705,7 @@
                 "Julio Gálvez",
                 "Gonzalo Paz-Pardo"
               ],
-              "abstract": null,
+              "abstract": "Households face earnings risk which is non-normal and varies by age and over the income distribution. We show that allowing for these rich features of earnings dynamics, in the context of a structurally estimated life-cycle portfolio choice model, helps to rationalize the limited participation of households in the stock market and their low holdings of risky assets. Because households are subject to more background risk than previously considered, the estimated model implies a substantially lower coefficient of risk aversion. We also find renewed support for rule-of-thumb investment strategies under the model with the nonlinear earnings process.",
               "doi": "10.1016/j.jfineco.2025.104206",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104206",
               "pages": "104206"
@@ -1666,7 +1718,7 @@
                 "Richard T. Thakor",
                 "Colin Ward"
               ],
-              "abstract": null,
+              "abstract": "We assess how labor mobility affects intangible investment in a dynamic agency model featuring both knowledge appropriation and moral hazard. We argue that restricting worker mobility, while reducing employees’ appropriation of firm intangible capital, can hurt their incentives to exert effort. Our calibration to U.S. data targets responses of employee turnover and firms’ intangible investment to variations in workers’ outside option values, identified through exogenous shocks to non-compete enforcement. The model simulation shows that knowledge spillovers mitigate the costs of incentive provision when agency frictions are severe, and the optimal labor mobility regulation should balance this benefit against turnover risk. Finally, we highlight the use of deferred compensation bonuses in the optimal contract as a retention mechanism, even among under-performing firms.",
               "doi": "10.1016/j.jfineco.2025.104207",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104207",
               "pages": "104207"
@@ -1677,7 +1729,7 @@
                 "Mete Kılıç",
                 "Şelale Tüzel"
               ],
-              "abstract": null,
+              "abstract": "We document that 20% of Compustat firms exhibit above-median investment rates despite having below-median marginal product of capital (MPK), seemingly “misallocating” resources. These firms are typically younger and more likely to experience substantial upwards jumps in sales and MPK in subsequent years. They contribute significantly to innovation, and their investments predict future aggregate productivity, creating value beyond their current MPK. We propose and estimate a simple endogenous firm growth model that captures key cross-sectional features and enables counterfactual analysis. Ignoring the potential for future jumps in hypothetical investment policies reduces MPK and investment dispersion but also lowers aggregate productivity.",
               "doi": "10.1016/j.jfineco.2025.104208",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104208",
               "pages": "104208"
@@ -1700,7 +1752,7 @@
                 "Johannes Klausmann",
                 "N. Aaron Pancost"
               ],
-              "abstract": null,
+              "abstract": "Exploiting the “twin” structure of German government green and conventional securities, we use a dynamic term structure model to estimate a time-varying greenium stemming solely from investors’ green values and not their cash flow expectations. This greenium is distinct from the yield spread between the twin securities (the green spread), as the model purifies it from pecuniary and non-pecuniary factors unrelated to environmental concerns. While the green spread correlates with stock market prices, the conventional convenience yield, and temporary demand-supply imbalances, our greenium correlates only with proxies of environmental concerns. We also estimate expected green returns, which incorporate greenium risk.",
               "doi": "10.1016/j.jfineco.2025.104217",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104217",
               "pages": "104217"
@@ -1714,7 +1766,7 @@
                 "Juan Felipe Imbet",
                 "Christoph Schiller"
               ],
-              "abstract": null,
+              "abstract": "After the run on Silicon Valley Bank (SVB) in March 2023, U.S. regional banks entered a period of significant distress. We quantify social media's role in this distress using comprehensive Twitter data. During the SVB run period, banks with high pre-existing exposure to Twitter lost 4.3 percentage points more stock market value. Moreover, Twitter pre-exposure interacts significantly with classical run risks to predict greater run severity and greater deposit outflows during Q1-2023, effects unexplained by other banking or market characteristics. At the hourly frequency during the run, high Twitter attention over the past four hours predicts stock market losses, especially for banks with high run risks. By contrast, we find that negative Twitter sentiment does not amplify bank run risks. Rather, our evidence points to a distinctive role of Twitter attention, particularly when tweets are retweeted broadly.",
               "doi": "10.1016/j.jfineco.2025.104218",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104218",
               "pages": "104218"
@@ -1727,7 +1779,7 @@
                 "Kristy A.E. Jansen",
                 "Vincenzo Pezone"
               ],
-              "abstract": null,
+              "abstract": "We investigate whether teams exhibit increased or reduced overreaction in expectation formation relative to individuals. Using preregistered randomized experiments that directly elicit expectations about future returns, we find that teams display lower belief overreaction to recent investment performance. A quantitative decomposition shows that this team effect stems primarily from a “self-selection” mechanism, whereby the most biased team member chooses to influence the team decision less. An LLM-based analysis of team interactions reinforces this result. A complementary analysis of US equity mutual fund managers operating both individually and as part of a team yields consistent evidence of lower overreaction in teams.",
               "doi": "10.1016/j.jfineco.2025.104219",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104219",
               "pages": "104219"
@@ -1749,7 +1801,7 @@
               "authors": [
                 "Bryan Seegmiller"
               ],
-              "abstract": null,
+              "abstract": "Stocks with similar characteristics but different levels of ownership by financial institutions have returns and risk premia that comove very differently with shocks to the risk-bearing capacity of dealer banks. After observable stock characteristics are accounted for, excess returns on more intermediated stocks have higher betas on contemporaneous shocks to intermediary willingness to take risk and are more predictable by state variables that proxy for intermediary health. Intermediary risk-bearing capacity also explains a substantial and increasing fraction of the variation in conditional risk premia for portfolios sorted on intermediation. These effects are concentrated in stocks held by hedge funds or mutual fund investors who are more likely to be exposed to dealer banks. The empirical evidence supports the predictions of asset pricing models in which financial intermediaries are marginal investors but face frictions that induce changes in their risk-bearing capacity.",
               "doi": "10.1016/j.jfineco.2025.104223",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104223",
               "pages": "104223"
@@ -1761,7 +1813,7 @@
                 "Fangzhou Lu",
                 "Robert Whitelaw"
               ],
-              "abstract": null,
+              "abstract": "We propose a new approach to modeling bond risk and risk premia, inspired by the equity risk-return literature, which does not impose the tight restrictions found in models that generate closed-form bond prices. We estimate the joint dynamics of the volatility and Sharpe ratio of principal-component bond-factor portfolios as functions of yield curve variables and VIX. We uncover an important second factor in risk premia and document a complex time-varying relation between the price and quantity of interest rate risk inconsistent with the frameworks in existing studies. Exploiting this predictability in dynamic portfolio choice appears to enhance portfolio performance. Abstract We propose a new approach to modeling bond risk and risk premia, inspired by the equity risk-return literature, which does not impose the tight restrictions found in models that generate closed-form bond prices. We estimate the joint dynamics of the volatility and Sharpe ratio of principal-component bond-factor portfolios as functions of yield curve variables and VIX. We uncover an important second factor in risk premia and document a complex time-varying relation between the price and quantity of interest rate risk inconsistent with the frameworks in existing studies. Exploiting this predictability in dynamic portfolio choice appears to enhance portfolio performance.",
               "doi": "10.1016/j.jfineco.2025.104224",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104224",
               "pages": "104224"
@@ -1771,7 +1823,7 @@
               "authors": [
                 "Quinn Maingi"
               ],
-              "abstract": null,
+              "abstract": "I develop and estimate a quantitative spatial model featuring banks’ spatial lending networks to study the real effects of bank funding shocks. I apply the model to the 2023 regional bank panic. I show that, during the panic, deposits were reallocated towards regional banks with better marginal lending opportunities, which offered higher deposit rates. This reallocation substantially mitigated the otherwise negative aggregate output effects of the remaining, panic-related deposit flows. This positive reallocation effect is primarily driven by inflows into banks with good lending opportunities, suggesting that fundamental forces, rather than panic-driven idiosyncratic runs, are behind the positive reallocation effect.",
               "doi": "10.1016/j.jfineco.2025.104226",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104226",
               "pages": "104226"
@@ -1785,6 +1837,10 @@
           "year_month": "2026-01",
           "issue_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/175/suppl/C",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 9,
           "papers": [
             {
               "title": "The canary in the coal decline: Appalachian household finance and the transition from fossil fuels",
@@ -1793,7 +1849,7 @@
                 "Brigitte Roth Tran",
                 "Erin Troland"
               ],
-              "abstract": null,
+              "abstract": "The energy transition away from fossil fuels, despite its substantial overall climate benefits, presents significant transition risks for communities historically built around the fossil fuel industry. This paper uses the decline in the Appalachian coal industry between 2011 and 2018 to understand how individuals are harmed by a reduction in local fossil fuel extraction activity. We use individual-level credit data and exogenous variation in coal demand from the electricity sector to identify how the coal mining industry’s decline affected the finances of Appalachian households. We find that the decline in demand for coal caused broad-based negative impacts, decreasing credit scores and increasing credit utilization, delinquencies, amounts in third party collections, bankruptcy rates, and the number of individuals with subprime status. These effects were broad based and cannot be explained solely by individuals who lost coal mining jobs. Individuals with the lowest pre-period credit scores were more likely to end up in financial distress and experienced a greater deterioration in credit scores. Quantile regressions show that the drop in credit scores from the coal decline was most pronounced between the 30th and 50th percentiles of the credit score distribution. Our results provide evidence that people living in fossil fuel extraction regions are likely to experience declines in financial well-being from the energy transition even if they do not directly work in the affected industry.",
               "doi": "10.1016/j.jfineco.2025.104167",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104167",
               "pages": "104167"
@@ -1804,7 +1860,7 @@
                 "Haoyang Liu",
                 "Christopher Palmer"
               ],
-              "abstract": null,
+              "abstract": "We document implicit extrapolation in investment decision-making that exceeds the extrapolation inferable from stated expectations. Locally experienced returns predict individual real-estate investment decisions even conditional on an investor’s forecasted home-price growth and risk aversion. Moreover, estimates of this experience effect on investment are larger than implied by the combined effect of past returns on stated expectations and stated expectations on investment. We demonstrate that heterogeneous forecast confidence helps explain why many investors rely on past returns over their survey-elicited forecasts. As their rationale, such survey respondents frequently cite intentional extrapolation or a lack of confidence in other belief factors.",
               "doi": "10.1016/j.jfineco.2025.104172",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104172",
               "pages": "104172"
@@ -1817,7 +1873,7 @@
                 "Steven J. Davis",
                 "Kyle Kost"
               ],
-              "abstract": null,
+              "abstract": "We create a newspaper-based Equity Market Volatility (EMV) tracker that moves with the VIX and with the realized volatility of returns on the S&P 500.Parsing the underlying text, we find that 72 percent of EMV articles discuss the Macroeconomic Outlook, and 44 percent discuss Commodity Markets.Policy news is another major source of volatility: 35 percent of EMV articles refer to Fiscal Policy (mostly Tax Policy), 30 percent discuss Monetary Policy, 25 percent refer to one or more forms of Regulation, and 13 percent mention National Security matters.The contribution of particular policy areas fluctuates greatly over time.Trade Policy news, for example, went from a virtual nonfactor in equity market volatility to a leading source after Donald Trump's election and especially after the intensification of U.S-China trade tensions.The share of EMV articles with attention to government policy rises over time, reaching its peak in 2017-18.We validate our measurement approach in various ways.For example, tailoring our EMV tracker to news about petroleum markets yields a measure that rises and falls with the implied and realized volatility of oil prices.",
               "doi": "10.1016/j.jfineco.2025.104187",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104187",
               "pages": "104187"
@@ -1840,7 +1896,7 @@
                 "Jeffrey Wurgler",
                 "Hong Zhang"
               ],
-              "abstract": null,
+              "abstract": "Policy uncertainty can undermine the power of government subsidies to stimulate environmentally friendly research and development. We show that Chinese firms' green R&amp;D falls as the uncertainty of environmental subsidies rises: Exogenous, weather-driven air pollution variability induces subsidies to fluctuate, and firms in areas with high weather-driven subsidy variability undertake less green R&amp;D and hire fewer technical employees, controlling for the average level of subsidies. Heavy emitters and environmental technology firms are more affected. The results also illustrate how policy uncertainty can arise when policymakers are influenced by conditions that are salient but with causes that are difficult to disentangle.",
               "doi": "10.1016/j.jfineco.2025.104189",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104189",
               "pages": "104189"
@@ -1852,7 +1908,7 @@
                 "Minghao Yang",
                 "Constantine Yannelis"
               ],
-              "abstract": null,
+              "abstract": "This paper studies the transmission of monetary policy to the stock market through investors’ discount factors. To isolate this channel, we investigate the effect of US monetary policy surprises on the ratio of prices of the same stock listed simultaneously in Hong Kong and Mainland China, and thereby control for revisions in cash-flow expectations. We find this channel to be strong and asymmetric, with the effect driven by surprise monetary policy interest rate cuts. A 100 basis point surprise cut results in a 30 basis point increase in the ratio of stock prices over 5 days. These results suggest significant slow-moving reductions in stock market risk premia following accommodating monetary policy surprises. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org .",
               "doi": "10.1016/j.jfineco.2025.104190",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104190",
               "pages": "104190"
@@ -1876,7 +1932,7 @@
                 "Marco Macchiavelli",
                 "André F. Silva"
               ],
-              "abstract": null,
+              "abstract": "To safeguard its technological leadership, the U.S. has restricted domestic suppliers from exporting cutting-edge technologies to selected Chinese firms. Domestic firms affected by these export controls halt sales to Chinese customers, as intended, but struggle to establish new relations with alternative customers domestically or in politically aligned regions. Consequently, domestic suppliers experience sizable losses in market capitalization, along with reductions in profitability, employment, and bank lending. Chinese firms are more proactive in reconfiguring supply chains, though not without costs. Overall, export controls impose larger costs on U.S. firms developing the very technologies these policies aim to protect.",
               "doi": "10.1016/j.jfineco.2025.104192",
               "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
               "pages": "104192"
@@ -1908,6 +1964,10 @@
           "year_month": "2026-09",
           "issue_url": "https://academic.oup.com/rfs/issue/39/9",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Emission Caps and Investment in Green Technologies",
@@ -2003,6 +2063,10 @@
           "year_month": "2026-08",
           "issue_url": "https://academic.oup.com/rfs/issue/39/8",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 8,
           "papers": [
             {
               "title": "Who Bears Flood Risk? Evidence from Mortgage Markets in Florida",
@@ -2103,6 +2167,10 @@
           "year_month": "2026-07",
           "issue_url": "https://academic.oup.com/rfs/issue/39/7",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 8,
           "papers": [
             {
               "title": "Data-Driven Investors",
@@ -2204,6 +2272,10 @@
           "year_month": "2026-06",
           "issue_url": "https://academic.oup.com/rfs/issue/39/6",
           "special_title": "Household Finance",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 8,
           "papers": [
             {
               "title": "Estimating Discount Functions with Consumption Choices over the Lifecycle",
@@ -2315,6 +2387,10 @@
           "year_month": "2026-05",
           "issue_url": "https://academic.oup.com/rfs/issue/39/5",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Does Finance Benefit Society? A Language Embedding Approach",
@@ -2404,6 +2480,10 @@
           "year_month": "2026-04",
           "issue_url": "https://academic.oup.com/rfs/issue/39/4",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Nonbank Lending and Credit Cyclicality",
@@ -2495,6 +2575,10 @@
           "year_month": "2026-03",
           "issue_url": "https://academic.oup.com/rfs/issue/39/3",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Institutional Corporate Bond Pricing",
@@ -2587,6 +2671,10 @@
           "year_month": "2026-02",
           "issue_url": "https://academic.oup.com/rfs/issue/39/2",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Understanding Rationality and Disagreement in House Price Expectations",
@@ -2679,6 +2767,10 @@
           "year_month": "2026-01",
           "issue_url": "https://academic.oup.com/rfs/issue/39/1",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Willingness to Pay for Carbon Mitigation: Field Evidence from the Market for Carbon Offsets",
@@ -2780,6 +2872,10 @@
           "year_month": "2026-06",
           "issue_url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/latest-issue",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 15,
           "papers": [
             {
               "title": "Skewness Risk Premia and the Cross Section of Currency Returns",
@@ -2958,6 +3054,10 @@
           "year_month": "2026-05",
           "issue_url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/issue/5EB8F39D9A6409212BA26E2DE17B84BB",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 15,
           "papers": [
             {
               "title": "The Crash Risk in Individual Stocks Embedded in Skewness Swap Returns",
@@ -3144,6 +3244,10 @@
           "year_month": "2026-03",
           "issue_url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/issue/A45B258304EEE3AA147EA13C340EFA20",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 15,
           "papers": [
             {
               "title": "ETF Sampling and Index Arbitrage",
@@ -3336,6 +3440,10 @@
           "year_month": "2026-02",
           "issue_url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/issue/8B51B25580DBC578B51DC1D3FDBD0ADF",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 15,
           "papers": [
             {
               "title": "Labor Links, Comovement, and Predictable Returns",
@@ -3537,6 +3645,10 @@
           "year_month": "2026-07",
           "issue_url": "https://academic.oup.com/rof/issue/30/4",
           "special_title": "Finance and Product Markets",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 7,
           "papers": [
             {
               "title": "Competition and loan contracting",
@@ -3630,6 +3742,10 @@
           "year_month": "2026-05",
           "issue_url": "https://academic.oup.com/rof/issue/30/3",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 10,
           "papers": [
             {
               "title": "Hacking corporate reputations",
@@ -3762,6 +3878,10 @@
           "year_month": "2026-03",
           "issue_url": "https://academic.oup.com/rof/issue/30/2",
           "special_title": "",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 10,
           "papers": [
             {
               "title": "Firm-level green innovation beyond patents",
@@ -3769,7 +3889,7 @@
                 "Markus Leippold",
                 "Tingyu Yu"
               ],
-              "abstract": null,
+              "abstract": "This paper introduces a novel firm-level green innovation measure using ClimateBERT and GPT-3 to analyze earnings call transcripts. The measure captures a broader range of innovative activities beyond patents and distinguishes between invention and adoption dimensions of such efforts. These dimensions reveal distinctive geographical and industry patterns as well as key determinants. Firms engaged in green innovation, including many from carbon-intensive sectors, exhibit lower expected returns than their industry peers, likely due to improved environmental performance and ability to hedge against transition risk. The effects extend to non-patentable inventions and the widespread adoption of green innovations.",
               "doi": "10.1093/rof/rfaf058",
               "url": "https://doi.org/10.1093/rof/rfaf058",
               "pages": "423-458"
@@ -3805,7 +3925,7 @@
                 "Zoey Yiyuan Zhou",
                 "Douglas Almond"
               ],
-              "abstract": null,
+              "abstract": "The ongoing Holocene Extinction marks the fastest rate of species loss in human history. In the absence of effective public policies, nature-based solutions implemented through market mechanisms-most notably carbon offsets-have emerged as a rapidly growing asset class that often promote biodiversity co-benefits for investors. This study provides the first systematic evidence on how voluntary carbon offsets impact habitat quality. We compile the largest extant dataset of voluntary carbon offset projects and link them to high-resolution satellite-derived measures of habitat integrity in local ecosystems. Contrary to asserted co-benefits, we find carbon offset projects are associated with a 3.7% increase in habitat disturbance, as measured by the Human Influence Index (HII). Land-use analyses show that these projects tend to accelerate the conversion of biodiverse shrublands and less-dense forests into pastures and simplified landscapes, implying reduced habitat integrity and ecological trade-offs. We examine impact heterogeneity by ecosystem condition, certifications, stated co-benefits, protected area overlap, registry, and rating coverage, but still find no evidence of improved habitats. Nor do alternative habitat measures, the Bioclimate Ecosystem Resilience Index and the Biodiversity Habitat Index, show measurable improvement following offset projects. We conclude that voluntary carbon markets have ecological performance gaps and information frictions relevant to both investors and offset market governance.",
               "doi": "10.1093/rof/rfaf066",
               "url": "https://doi.org/10.1093/rof/rfaf066",
               "pages": "537-570"
@@ -3828,7 +3948,7 @@
                 "Stefano Lovo",
                 "Jacques Olivier"
               ],
-              "abstract": null,
+              "abstract": "We model how a profit-maximizing agency decides whether to sell ESG ratings to issuers or investors. For firms in sufficiently green sectors or when the proportion of socially responsible investors is large enough, ESG ratings increase expected stock prices and the “issuer pays” business model is more profitable than “investors pay”. When all investors are socially responsible, the model coincides with a model of credit ratings, explaining why credit ratings are sold to issuers while most ESG ratings are sold to investors. Ratings boost equilibrium investment in ESG but their impact on welfare is ambiguous, even for socially responsible investors.",
               "doi": "10.1093/rof/rfaf060",
               "url": "https://doi.org/10.1093/rof/rfaf060",
               "pages": "597-637"
@@ -3864,7 +3984,7 @@
                 "Alexander Tuft",
                 "Emmanuel Yimfor"
               ],
-              "abstract": null,
+              "abstract": "We provide novel causal evidence on the impact of horizontal relationships between financial intermediaries. Specifically, we study how the exogenous loss of established ties between venture capital firms (VCs) and investment bank underwriters, caused by underwriter mergers and closures, affects a VCs' ability to take portfolio companies public. Using a difference-in-differences approach, we show these disruptions decrease VC IPO exits by 9.5% and reduce fund multiples by 7.8%. These findings highlight the economic significance of relationship-specific capital, particularly human capital, in facilitating access to capital markets and reveal how intermediary networks shape VC performance.",
               "doi": "10.1093/rof/rfaf057",
               "url": "https://doi.org/10.1093/rof/rfaf057",
               "pages": "717-756"
@@ -3875,9 +3995,9 @@
                 "Xuan Tian",
                 "Yichu Wang"
               ],
-              "abstract": null,
-              "doi": null,
-              "url": "https://academic.oup.com/rof/issue/30/2",
+              "abstract": "We document a speculation channel through which housing market booms negatively affect entrepreneurship but increase entrepreneurial quality by screening off lower-type entrepreneurs. To establish causality, we exploit plausibly exogenous variation in house prices generated by staggered and unintended policy spillovers in China. Reduced labor supply, reduced capital supply, heightened entry costs, and forced homeownership do not appear to explain our main findings. The negative effect is more driven by house price growth rather than price levels, and exhibits in the OECD countries as well. Our article complements the well-documented collateral channel by offering nuanced evidence on a previously under-explored effect of house market booms on entrepreneurship.",
+              "doi": "10.1093/rof/rfaf056",
+              "url": "https://doi.org/10.1093/rof/rfaf056",
               "pages": "757-794"
             }
           ]
@@ -3889,6 +4009,10 @@
           "year_month": "2026-01",
           "issue_url": "https://academic.oup.com/rof/issue/30/1",
           "special_title": "Biodiversity",
+          "toc_source_url": "",
+          "is_complete_bound_issue": null,
+          "notes": "",
+          "paper_count": 11,
           "papers": [
             {
               "title": "Corporate nature risk perceptions",
@@ -4138,7 +4262,7 @@
         "Markus Pelger",
         "Ye Ye"
       ],
-      "abstract": "Abstract We propose a new framework to explain the factor structure in the full cross section of Treasury bond returns. Our method unifies non-parametric curve estimation with cross-sectional factor modeling. We identify smoothness as a fundamental principle of the term structure of returns. Our approach implies investable factors, which correspond to the optimal spanning basis functions in decreasing order of smoothness. Our factors explain the slope and curvature shapes frequently encountered in PCA. In a comprehensive empirical study, we show that the first four factors explain the time-series variation and risk premia of the term structure of excess returns. Cash flows are covariances as the exposure of bonds to factors is fully explained by cash flow information. We identify a state-dependent complexity premium. The fourth factor, which captures complex shapes of the term structure premium, substantially reduces pricing errors and pays off during recessions.",
+      "abstract": "We propose a new framework to explain the factor structure in the full cross section of Treasury bond returns. Our method unifies non-parametric curve estimation with cross-sectional factor modeling. We identify smoothness as a fundamental principle of the term structure of returns. Our approach implies investable factors, which correspond to the optimal spanning basis functions in decreasing order of smoothness. Our factors explain the slope and curvature shapes frequently encountered in PCA. In a comprehensive empirical study, we show that the first four factors explain the time-series variation and risk premia of the term structure of excess returns. Cash flows are covariances as the exposure of bonds to factors is fully explained by cash flow information. We identify a state-dependent complexity premium. The fourth factor, which captures complex shapes of the term structure premium, substantially reduces pricing errors and pays off during recessions.",
       "doi": "10.1093/rof/rfag033",
       "url": "https://doi.org/10.1093/rof/rfag033",
       "posted_date": "2026-08-21",
@@ -4193,7 +4317,7 @@
         "Elin Molin",
         "Paula Roth"
       ],
-      "abstract": "Abstract We study how fatal and nonfatal health shocks affect households’ ability to meet their financial obligations. We find that fatal shocks substantially increase the likelihood of default and that housing wealth plays a key role as a self-insurance mechanism. Surviving spouses who experience the largest income losses are more likely to sell their homes, and those without housing wealth face a sharply higher risk of debt collection. In the most financially vulnerable families, these shocks even generate intergenerational spillovers. In contrast, nonfatal health shocks lead to only modest increases in default risk. Taken together, our findings suggest that strengthening survivors’ benefits for households with limited resources could improve welfare across generations.",
+      "abstract": "We study how fatal and nonfatal health shocks affect households’ ability to meet their financial obligations. We find that fatal shocks substantially increase the likelihood of default and that housing wealth plays a key role as a self-insurance mechanism. Surviving spouses who experience the largest income losses are more likely to sell their homes, and those without housing wealth face a sharply higher risk of debt collection. In the most financially vulnerable families, these shocks even generate intergenerational spillovers. In contrast, nonfatal health shocks lead to only modest increases in default risk. Taken together, our findings suggest that strengthening survivors’ benefits for households with limited resources could improve welfare across generations.",
       "doi": "10.1093/rof/rfag031",
       "url": "https://doi.org/10.1093/rof/rfag031",
       "posted_date": "2026-08-19",
@@ -4232,7 +4356,7 @@
         "Sarah M. Lein",
         "Elizabeth Steiner"
       ],
-      "abstract": "Abstract The sensitivity of the external finance premium to firms’ net-worth-to-capital ratio is central to the strength of the financial accelerator, yet direct firm-level evidence remains scarce. We estimate this elasticity using balance sheet and income statement data for Swiss nonfinancial firms over 1998–2016. To address the endogeneity of net worth, we employ two complementary instrumental variable strategies: one based on firms’ non-operating income and the other a shift-share design that interacts predetermined exposure to financial income with aggregate dividend returns. Mapping the estimated elasticity into the costly state verification framework as implemented by Bernanke et al. (1999) yields structural monitoring costs of about one quarter of firms’ gross return on capital, with estimates ranging from 0.15 to 0.35 across specifications. Our results provide direct firm-level support for the financial accelerator mechanism and imply monitoring costs of the same order of magnitude as the benchmark calibration of Bernanke et al. (1999).",
+      "abstract": "The sensitivity of the external finance premium to firms’ net-worth-to-capital ratio is central to the strength of the financial accelerator, yet direct firm-level evidence remains scarce. We estimate this elasticity using balance sheet and income statement data for Swiss nonfinancial firms over 1998–2016. To address the endogeneity of net worth, we employ two complementary instrumental variable strategies: one based on firms’ non-operating income and the other a shift-share design that interacts predetermined exposure to financial income with aggregate dividend returns. Mapping the estimated elasticity into the costly state verification framework as implemented by Bernanke et al. (1999) yields structural monitoring costs of about one quarter of firms’ gross return on capital, with estimates ranging from 0.15 to 0.35 across specifications. Our results provide direct firm-level support for the financial accelerator mechanism and imply monitoring costs of the same order of magnitude as the benchmark calibration of Bernanke et al. (1999).",
       "doi": "10.1093/rof/rfag032",
       "url": "https://doi.org/10.1093/rof/rfag032",
       "posted_date": "2026-08-14",
@@ -4358,7 +4482,7 @@
         "Lu Qiu",
         "Xinrong Xiao"
       ],
-      "abstract": "Abstract We examine how in-person and virtual interactions shape mutual fund investment decisions using a comprehensive dataset of corporate site visits. Before COVID-19, fund pairs jointly attending in-person visits trade more similarly (by 20% of a standard deviation) than matched controls. The effect holds for stocks unrelated to the hosting firm and appears in firm-level, industry, geographic, and asset allocation decisions; it is stronger among managers with prior familiarity, similar seniority, and mixed gender. Stocks purchased by jointly visiting funds earn higher subsequent returns, indicating that these exchanges convey valuable information. Exploiting the exogenous shift to virtual communication induced by COVID-19, we find that in-person visits remain associated with correlated trading during the pandemic, whereas virtual visits have substantially weaker effects. A survey of fund managers confirms that site visits prompt information exchange, follow-up research, and portfolio adjustments. In-person interactions appear central to information acquisition; and virtual interactions do not easily replicate this function.",
+      "abstract": "We examine how in-person and virtual interactions shape mutual fund investment decisions using a comprehensive dataset of corporate site visits. Before COVID-19, fund pairs jointly attending in-person visits trade more similarly (by 20% of a standard deviation) than matched controls. The effect holds for stocks unrelated to the hosting firm and appears in firm-level, industry, geographic, and asset allocation decisions; it is stronger among managers with prior familiarity, similar seniority, and mixed gender. Stocks purchased by jointly visiting funds earn higher subsequent returns, indicating that these exchanges convey valuable information. Exploiting the exogenous shift to virtual communication induced by COVID-19, we find that in-person visits remain associated with correlated trading during the pandemic, whereas virtual visits have substantially weaker effects. A survey of fund managers confirms that site visits prompt information exchange, follow-up research, and portfolio adjustments. In-person interactions appear central to information acquisition; and virtual interactions do not easily replicate this function.",
       "doi": "10.1093/rof/rfag030",
       "url": "https://doi.org/10.1093/rof/rfag030",
       "posted_date": "2026-08-04",
@@ -4439,7 +4563,7 @@
       "authors": [
         "Viet-Dung Doan"
       ],
-      "abstract": "Abstract This article documents a non-monotonic impact of local mutual funds on the pricing of municipal bond issuance. Offering yield spreads are higher in states where municipal bond funds’ headquarters are located, and in states with larger aggregate local fund size. However, controlling for local fund size, yield spreads decrease as the number of local fund families increases. These findings are consistent with a security pricing model with multiple imperfectly informed investors and with the empirical evidence supporting local funds’ informational advantage. Specifically, mutual fund trades predict local bonds’ credit rating changes.",
+      "abstract": "This article documents a non-monotonic impact of local mutual funds on the pricing of municipal bond issuance. Offering yield spreads are higher in states where municipal bond funds’ headquarters are located, and in states with larger aggregate local fund size. However, controlling for local fund size, yield spreads decrease as the number of local fund families increases. These findings are consistent with a security pricing model with multiple imperfectly informed investors and with the empirical evidence supporting local funds’ informational advantage. Specifically, mutual fund trades predict local bonds’ credit rating changes.",
       "doi": "10.1093/rof/rfag029",
       "url": "https://doi.org/10.1093/rof/rfag029",
       "posted_date": "2026-07-30",
@@ -4550,7 +4674,7 @@
         "Luis Molestina Vivar",
         "Michael Wedow"
       ],
-      "abstract": "Abstract Investment funds hold disproportionately more domestic than foreign stocks, which has been attributed to stock market development and familiarity factors such as language and distance. However, the literature typically assumes that funds represent investors in their country of incorporation, neglecting the substantial allocation of investors’ assets to foreign funds domiciled in financial centers. Using a novel “look-through approach” that combines supervisory holdings statistics with granular security-level fund portfolios, we provide a more accurate view of investors’ indirect equity allocations, independent of the fund’s legal country of incorporation. Our findings reveal three key insights. First, home bias estimates are significantly smaller than previously documented, reflecting greater geographical portfolio diversification through investment funds. Second, in most euro area countries, home bias is primarily driven by country-specific rather than common-currency preferences. Third, familiarity plays a larger role in cross-border investments for households than for institutional fund investors, highlighting the importance of investor sophistication.",
+      "abstract": "Investment funds hold disproportionately more domestic than foreign stocks, which has been attributed to stock market development and familiarity factors such as language and distance. However, the literature typically assumes that funds represent investors in their country of incorporation, neglecting the substantial allocation of investors’ assets to foreign funds domiciled in financial centers. Using a novel “look-through approach” that combines supervisory holdings statistics with granular security-level fund portfolios, we provide a more accurate view of investors’ indirect equity allocations, independent of the fund’s legal country of incorporation. Our findings reveal three key insights. First, home bias estimates are significantly smaller than previously documented, reflecting greater geographical portfolio diversification through investment funds. Second, in most euro area countries, home bias is primarily driven by country-specific rather than common-currency preferences. Third, familiarity plays a larger role in cross-border investments for households than for institutional fund investors, highlighting the importance of investor sophistication.",
       "doi": "10.1093/rof/rfag028",
       "url": "https://doi.org/10.1093/rof/rfag028",
       "posted_date": "2026-07-28",
@@ -4594,7 +4718,7 @@
         "Vinay Patel",
         "Tālis J. Putniņš"
       ],
-      "abstract": null,
+      "abstract": "We propose that the arrival of new information is a source of systematic risk for the holder of a financial security. Using several measures of information flows, we demonstrate that a stock’s sensitivity to market-wide information flow is associated with a robust cross-sectional return premium that is distinct from other return premia. We find that the amount of information impounded in prices through trading has increased in recent years, consistent with declining trading costs and the rise of algorithmic trading. We show that the information flows risk premium increases over time.",
       "doi": "10.1093/rof/rfag027",
       "url": "https://doi.org/10.1093/rof/rfag027",
       "posted_date": "2026-07-25",
@@ -4731,7 +4855,7 @@
         "Yuanyuan Pan",
         "Chek Ann Tan"
       ],
-      "abstract": "Abstract We examine the causal effects of a policy allowing early withdrawal of pension funds on individuals’ investment behavior. Upon turning 55, eligible individuals may withdraw a portion of their pension savings. Using detailed brokerage data, we find that this liquidity access triggers increased trading of 9–33 percent, especially in riskier, leveraged assets, without improving investment performance. The resulting increase in trading costs and portfolio volatility, particularly among males and lower-income investors, ultimately diminishes retirement wealth.",
+      "abstract": "We examine the causal effects of a policy allowing early withdrawal of pension funds on individuals’ investment behavior. Upon turning 55, eligible individuals may withdraw a portion of their pension savings. Using detailed brokerage data, we find that this liquidity access triggers increased trading of 9–33 percent, especially in riskier, leveraged assets, without improving investment performance. The resulting increase in trading costs and portfolio volatility, particularly among males and lower-income investors, ultimately diminishes retirement wealth.",
       "doi": "10.1093/rof/rfag026",
       "url": "https://doi.org/10.1093/rof/rfag026",
       "posted_date": "2026-07-21",
@@ -4784,7 +4908,7 @@
         "Nikolaus Schweizer",
         "Martijn de Vries"
       ],
-      "abstract": "Abstract We study the long-term impact of limited attention on belief formation. To this end, we propose a rank-dependent model of inattentive learning, building on principles from the behavioral science literature. We provide explicit formulas for the distorted limiting beliefs and the asymptotic variance that characterizes the speed of learning. In our model, agents who pay excessive attention to extreme observations end up learning a distorted version of the true data-generating process which puts too much weight on the tails of the distribution. We show how the implications of our model can be linked to empirically documented phenomena such as skewness-seeking behavior and the coexistence of over- and underreaction to incoming information depending on the context. Limited attention can thus have long-lasting impacts on the beliefs agents form.",
+      "abstract": "We study the long-term impact of limited attention on belief formation. To this end, we propose a rank-dependent model of inattentive learning, building on principles from the behavioral science literature. We provide explicit formulas for the distorted limiting beliefs and the asymptotic variance that characterizes the speed of learning. In our model, agents who pay excessive attention to extreme observations end up learning a distorted version of the true data-generating process which puts too much weight on the tails of the distribution. We show how the implications of our model can be linked to empirically documented phenomena such as skewness-seeking behavior and the coexistence of over- and underreaction to incoming information depending on the context. Limited attention can thus have long-lasting impacts on the beliefs agents form.",
       "doi": "10.1093/rof/rfag021",
       "url": "https://doi.org/10.1093/rof/rfag021",
       "posted_date": "2026-07-14",
@@ -4919,7 +5043,7 @@
         "Vincent Glode",
         "Xingtan Zhang"
       ],
-      "abstract": "Abstract We model the feedback loop between the sales of trading advantages (e.g., data or co-location services) and traders’ endogenous participation in financial markets. Whereas a trader’s benefit from purchasing trading advantages increases with aggregate market participation, the benefit from participating decreases with other traders’ purchases of trading advantages that impose negative externalities on counterparties. In equilibrium, sellers of trading advantages (e.g., data providers or securities exchanges) may maximize their profits by prompting inefficiently low market participation and liquidity. We study the consequences of altering the market structure and show that the resulting policy prescriptions contrast sharply with standard models.",
+      "abstract": "We model the feedback loop between the sales of trading advantages (e.g., data or co-location services) and traders’ endogenous participation in financial markets. Whereas a trader’s benefit from purchasing trading advantages increases with aggregate market participation, the benefit from participating decreases with other traders’ purchases of trading advantages that impose negative externalities on counterparties. In equilibrium, sellers of trading advantages (e.g., data providers or securities exchanges) may maximize their profits by prompting inefficiently low market participation and liquidity. We study the consequences of altering the market structure and show that the resulting policy prescriptions contrast sharply with standard models.",
       "doi": "10.1093/rof/rfag025",
       "url": "https://doi.org/10.1093/rof/rfag025",
       "posted_date": "2026-07-03",
@@ -5007,7 +5131,7 @@
         "Lei Kong",
         "Xinyan Yan"
       ],
-      "abstract": "Abstract We study the influence of multi-sector conglomerate firms on sectoral comovement. Using an innovative network model of firms and industries, we derive a novel measure of the co-concentration of industries in which two industries are more co-concentrated if they share greater exposure to the same conglomerate firms. Using time-series, cross-sectional, and longitudinal tests on establishment-level data from nearly all US firms over 1991 to 2019, we find that industries with higher co-concentration exhibit stronger comovement in employment, sales, and asset growth. Controlling for alternative explanations, a 1-SD increase in co-concentration corresponds to a 0.32-SD increase in the comovement of employment growth. In variance–covariance decompositions, we find that firm-specific shocks explain nearly half of aggregate volatility and industry comovement and that conglomerates play a significant role in sectoral comovement. Our framework helps explain how idiosyncratic, firm-level shocks contribute to aggregate fluctuations and influence business cycles.",
+      "abstract": "We study the influence of multi-sector conglomerate firms on sectoral comovement. Using an innovative network model of firms and industries, we derive a novel measure of the co-concentration of industries in which two industries are more co-concentrated if they share greater exposure to the same conglomerate firms. Using time-series, cross-sectional, and longitudinal tests on establishment-level data from nearly all US firms over 1991 to 2019, we find that industries with higher co-concentration exhibit stronger comovement in employment, sales, and asset growth. Controlling for alternative explanations, a 1-SD increase in co-concentration corresponds to a 0.32-SD increase in the comovement of employment growth. In variance–covariance decompositions, we find that firm-specific shocks explain nearly half of aggregate volatility and industry comovement and that conglomerates play a significant role in sectoral comovement. Our framework helps explain how idiosyncratic, firm-level shocks contribute to aggregate fluctuations and influence business cycles.",
       "doi": "10.1093/rof/rfag024",
       "url": "https://doi.org/10.1093/rof/rfag024",
       "posted_date": "2026-06-26",
@@ -5095,7 +5219,7 @@
         "Nic Schaub",
         "Markus Schmid"
       ],
-      "abstract": "Abstract We study the impact of financial advice on retirement savings. We document that advisors help clients to prepare for retirement by inducing them to take advantage of tax incentives offered on retirement accounts. Advisors particularly promote retirement funds as compared to savings accounts. After-tax returns of advisor-induced retirement fund investments exceed returns of plausible alternative investments. We find no indication that advisor-induced contributions to retirement accounts lead to negative side effects, such as reductions in other savings or liquidity constraints. Hence, we provide evidence of a bright side of financial advice. Furthermore, investments in retirement funds increase bank profits, pointing toward a win–win situation with rent-sharing between the bank and its clients. However, advisors do not in particular target clients that are at a higher risk of under-saving for retirement, such as female clients, clients with lower wealth, and less-educated clients.",
+      "abstract": "We study the impact of financial advice on retirement savings. We document that advisors help clients to prepare for retirement by inducing them to take advantage of tax incentives offered on retirement accounts. Advisors particularly promote retirement funds as compared to savings accounts. After-tax returns of advisor-induced retirement fund investments exceed returns of plausible alternative investments. We find no indication that advisor-induced contributions to retirement accounts lead to negative side effects, such as reductions in other savings or liquidity constraints. Hence, we provide evidence of a bright side of financial advice. Furthermore, investments in retirement funds increase bank profits, pointing toward a win–win situation with rent-sharing between the bank and its clients. However, advisors do not in particular target clients that are at a higher risk of under-saving for retirement, such as female clients, clients with lower wealth, and less-educated clients.",
       "doi": "10.1093/rof/rfag007",
       "url": "https://doi.org/10.1093/rof/rfag007",
       "posted_date": "2026-06-20",
@@ -5163,7 +5287,7 @@
         "Mark E. Paddrik",
         "Stathis Tompaidis"
       ],
-      "abstract": "Abstract In over-the-counter markets, dealers facilitate trade by providing liquidity and acting as intermediaries. We use proprietary data on US single-name credit default swap trades and positions to study how dealer intermediation networks shape liquidity. For each reference entity, we reconstruct interdealer and dealer-to-client networks and introduce Shapley value-based measures of dealer and market connectivity. We present a cooperative game framework that links these measures to predictions for the liquidity that dealers provide at both individual and market levels. Empirically, we find that Shapley values are strongly associated with trade volumes, inventory management, execution costs, and bid–ask spreads.",
+      "abstract": "In over-the-counter markets, dealers facilitate trade by providing liquidity and acting as intermediaries. We use proprietary data on US single-name credit default swap trades and positions to study how dealer intermediation networks shape liquidity. For each reference entity, we reconstruct interdealer and dealer-to-client networks and introduce Shapley value-based measures of dealer and market connectivity. We present a cooperative game framework that links these measures to predictions for the liquidity that dealers provide at both individual and market levels. Empirically, we find that Shapley values are strongly associated with trade volumes, inventory management, execution costs, and bid–ask spreads.",
       "doi": "10.1093/rof/rfag023",
       "url": "https://doi.org/10.1093/rof/rfag023",
       "posted_date": "2026-06-15",
@@ -5175,7 +5299,7 @@
       "authors": [
         "Markus Parlasca"
       ],
-      "abstract": "Abstract This article studies the disclosure of stress test results by a regulator who is privately informed about bank health when she chooses the stress scenario. I show that the regulator’s choice of the stress scenario depends on how heterogeneous health is across banks. There can be fewer runs than under transparency. However, there are more runs than when the regulator chooses the scenario before becoming informed, highlighting a time-inconsistency problem. Moreover, disclosure can become a source of informational contagion, as changes in the health of one bank affect beliefs about other banks. The model explains the empirical puzzle that a bank’s share price can fall even though it passes the stress test.",
+      "abstract": "This article studies the disclosure of stress test results by a regulator who is privately informed about bank health when she chooses the stress scenario. I show that the regulator’s choice of the stress scenario depends on how heterogeneous health is across banks. There can be fewer runs than under transparency. However, there are more runs than when the regulator chooses the scenario before becoming informed, highlighting a time-inconsistency problem. Moreover, disclosure can become a source of informational contagion, as changes in the health of one bank affect beliefs about other banks. The model explains the empirical puzzle that a bank’s share price can fall even though it passes the stress test.",
       "doi": "10.1093/rof/rfag020",
       "url": "https://doi.org/10.1093/rof/rfag020",
       "posted_date": "2026-06-15",
@@ -5218,7 +5342,7 @@
         "Stefan Greppmair",
         "Karol Paludkiewicz"
       ],
-      "abstract": "Abstract We show that the transmission of a monetary policy tightening varies in the cross-section of banks when central bank reserves are abundant. Specifically, the net worth of reserve-rich banks may display a boost when the interest rate paid on reserves increases strongly. Focusing on the European Central Bank’s 2022 rate hiking cycle, we show that reserve-rich banks’ credit supply is less sensitive to the monetary policy tightening compared to other banks. The effect varies in the cross-section of both banks and firms. The results are binding at the firm level, indicating the presence of real effects.",
+      "abstract": "We show that the transmission of a monetary policy tightening varies in the cross-section of banks when central bank reserves are abundant. Specifically, the net worth of reserve-rich banks may display a boost when the interest rate paid on reserves increases strongly. Focusing on the European Central Bank’s 2022 rate hiking cycle, we show that reserve-rich banks’ credit supply is less sensitive to the monetary policy tightening compared to other banks. The effect varies in the cross-section of both banks and firms. The results are binding at the firm level, indicating the presence of real effects.",
       "doi": "10.1093/rof/rfag012",
       "url": "https://doi.org/10.1093/rof/rfag012",
       "posted_date": "2026-06-12",
@@ -5231,7 +5355,7 @@
         "Clemens Mueller",
         "Patrick Verwijmeren"
       ],
-      "abstract": "Abstract Many initial public offerings (IPOs) are priced at exactly the high-end of the pricing range. Investing in IPOs priced at the high-end leads to first-day returns that are substantially higher than investing in IPOs that are priced just below or above the high-end. We argue that these results are in line with issuing firms settling for positively perceived salient pricing points in negotiations with underwriters.",
+      "abstract": "Many initial public offerings (IPOs) are priced at exactly the high-end of the pricing range. Investing in IPOs priced at the high-end leads to first-day returns that are substantially higher than investing in IPOs that are priced just below or above the high-end. We argue that these results are in line with issuing firms settling for positively perceived salient pricing points in negotiations with underwriters.",
       "doi": "10.1093/rof/rfag016",
       "url": "https://doi.org/10.1093/rof/rfag016",
       "posted_date": "2026-06-12",
@@ -5245,7 +5369,7 @@
         "Bruce D. Grundy",
         "Ryuichiro Izumi"
       ],
-      "abstract": "Abstract Should banks be transparent during a bail-in? Banks suffering losses may bail-in creditors to optimally allocate resources between early and late withdrawers. However, if losses are private information, then bail-ins may signal asset quality. In the absence of signaling, banks can sell assets at a pooled price, effectively insuring creditors against asset risks. However, when bail-ins signal quality, banks may delay bail-ins and sell assets at higher prices than otherwise, but this incentive can trigger inefficient bank runs. To prevent such runs, banks should choose to be either fully transparent or entirely opaque, ensuring asset quality is not private information.",
+      "abstract": "Should banks be transparent during a bail-in? Banks suffering losses may bail-in creditors to optimally allocate resources between early and late withdrawers. However, if losses are private information, then bail-ins may signal asset quality. In the absence of signaling, banks can sell assets at a pooled price, effectively insuring creditors against asset risks. However, when bail-ins signal quality, banks may delay bail-ins and sell assets at higher prices than otherwise, but this incentive can trigger inefficient bank runs. To prevent such runs, banks should choose to be either fully transparent or entirely opaque, ensuring asset quality is not private information.",
       "doi": "10.1093/rof/rfag019",
       "url": "https://doi.org/10.1093/rof/rfag019",
       "posted_date": "2026-06-11",
@@ -5299,7 +5423,7 @@
         "Rundong Wang",
         "Chengxi Yin"
       ],
-      "abstract": "Abstract This study estimates analyst-level stickiness in forecast updating and investigates its underlying determinants. Consistent with recent experimental findings on belief updating under cognitive noise, analysts often compress their forecasts toward an intermediate default, such as prior forecasts, when uncertain about forecast precision, leading to forecast stickiness. This tendency is more evident among analysts with characteristics associated with higher cognitive noise, including lower forecast accuracy, limited experience, and complex portfolio coverage, and during periods of heightened macroeconomic uncertainty. A model incorporating sticky updating behavior shows that the consensus revision by sticky analysts exhibits stronger return predictability than the traditional consensus revision by all analysts, with this predictability increasing with the proportion of sticky analysts covering a stock. Empirical evidence supports these predictions. Additionally, the return predictability of sticky revisions is especially pronounced when forecast difficulty is elevated. Analyst-level stickiness provides more information about the cross-section of stock returns than firm-level stickiness.",
+      "abstract": "This study estimates analyst-level stickiness in forecast updating and investigates its underlying determinants. Consistent with recent experimental findings on belief updating under cognitive noise, analysts often compress their forecasts toward an intermediate default, such as prior forecasts, when uncertain about forecast precision, leading to forecast stickiness. This tendency is more evident among analysts with characteristics associated with higher cognitive noise, including lower forecast accuracy, limited experience, and complex portfolio coverage, and during periods of heightened macroeconomic uncertainty. A model incorporating sticky updating behavior shows that the consensus revision by sticky analysts exhibits stronger return predictability than the traditional consensus revision by all analysts, with this predictability increasing with the proportion of sticky analysts covering a stock. Empirical evidence supports these predictions. Additionally, the return predictability of sticky revisions is especially pronounced when forecast difficulty is elevated. Analyst-level stickiness provides more information about the cross-section of stock returns than firm-level stickiness.",
       "doi": "10.1093/rof/rfag022",
       "url": "https://doi.org/10.1093/rof/rfag022",
       "posted_date": "2026-06-08",
@@ -5481,7 +5605,7 @@
         "Donghang Zhang",
         "Yafei Zhang"
       ],
-      "abstract": "Abstract We study how the Volcker rule affects bond pricing in the pritmary market. Following implementation, Volcker-affected bonds have greater credit spreads at issuance than non-affected bonds. Bond liquidity in the year after issuance is also negatively affected by the Volcker rule. These effects are concentrated in the Rule 144A bond market. The Volcker rule’s impacts on credit spreads and liquidity are stronger for bonds with lower expected liquidity. The results suggest that expected liquidity deterioration due to the Volcker rule increases the liquidity premium demanded by primary market investors.",
+      "abstract": "We study how the Volcker rule affects bond pricing in the pritmary market. Following implementation, Volcker-affected bonds have greater credit spreads at issuance than non-affected bonds. Bond liquidity in the year after issuance is also negatively affected by the Volcker rule. These effects are concentrated in the Rule 144A bond market. The Volcker rule’s impacts on credit spreads and liquidity are stronger for bonds with lower expected liquidity. The results suggest that expected liquidity deterioration due to the Volcker rule increases the liquidity premium demanded by primary market investors.",
       "doi": "10.1093/rof/rfag018",
       "url": "https://doi.org/10.1093/rof/rfag018",
       "posted_date": "2026-05-20",
@@ -5547,7 +5671,7 @@
       "authors": [
         "Wensi Xie"
       ],
-      "abstract": "Abstract We evaluate the effects of environmental regulation on corporate innovation and real outcomes. Exploiting plant-level regulatory shocks induced by the 1990 Clean Air Act Amendments, we identify firms’ exposure to stricter environmental standards based on whether their plants emit newly regulated pollutants in counties designated as nonattainment. We show that firms more heavily exposed to the regulatory shock increase green innovation, including green process and green product patents, with no corresponding changes in nongreen patenting. The innovation-enhancing effects are concentrated among firms in industries with low external finance dependence and are stronger in areas with more intensive environmental enforcement. In addition, employment declines in response to the regulatory shock, and the effects are more pronounced among firms relying heavily on external finance. Overall, the results support the Porter hypothesis while highlighting the roles of financial capacity and enforcement intensity in shaping firms’ innovation and labor responses to environmental regulation.",
+      "abstract": "We evaluate the effects of environmental regulation on corporate innovation and real outcomes. Exploiting plant-level regulatory shocks induced by the 1990 Clean Air Act Amendments, we identify firms’ exposure to stricter environmental standards based on whether their plants emit newly regulated pollutants in counties designated as nonattainment. We show that firms more heavily exposed to the regulatory shock increase green innovation, including green process and green product patents, with no corresponding changes in nongreen patenting. The innovation-enhancing effects are concentrated among firms in industries with low external finance dependence and are stronger in areas with more intensive environmental enforcement. In addition, employment declines in response to the regulatory shock, and the effects are more pronounced among firms relying heavily on external finance. Overall, the results support the Porter hypothesis while highlighting the roles of financial capacity and enforcement intensity in shaping firms’ innovation and labor responses to environmental regulation.",
       "doi": "10.1093/rof/rfag013",
       "url": "https://doi.org/10.1093/rof/rfag013",
       "posted_date": "2026-05-15",
@@ -5669,7 +5793,7 @@
         "David H. Solomon",
         "Philip E. Strahan"
       ],
-      "abstract": "Abstract In the Australian real estate market, about a third of properties are sold at auction. Properties that fail auctions sell later for a 1.3 percent discount. Consistent with a causal channel, the effect holds with property-level fixed effects and when auction failure is instrumented by adverse weather or seller overvaluation. Prices cluster below round numbers, and the discount fades over time, inconsistent with our effects reflecting unobserved property characteristics. The evidence suggests that there are behavioral factors affecting the valuations of buyers and sellers.",
+      "abstract": "In the Australian real estate market, about a third of properties are sold at auction. Properties that fail auctions sell later for a 1.3 percent discount. Consistent with a causal channel, the effect holds with property-level fixed effects and when auction failure is instrumented by adverse weather or seller overvaluation. Prices cluster below round numbers, and the discount fades over time, inconsistent with our effects reflecting unobserved property characteristics. The evidence suggests that there are behavioral factors affecting the valuations of buyers and sellers.",
       "doi": "10.1093/rof/rfag003",
       "url": "https://doi.org/10.1093/rof/rfag003",
       "posted_date": "2026-05-09",
@@ -5821,7 +5945,7 @@
         "Louis Nguyen",
         "Huyen Nguyen"
       ],
-      "abstract": "Abstract Using the adoption of Zombie Property Laws (ZL) across several US states, we show that requiring lenders to maintain properties in the foreclosure process affects mortgage lending decisions and standards. Difference-in-differences estimations using a state border design show that ZL incentivizes lenders to screen mortgage applications more carefully: they deny more applications and impose higher interest rates on originated loans, especially risky loans. In turn, these loans exhibit higher ex post performance. ZL also affects lender behavior after borrowers become distressed, causing them to strategically keep delinquent mortgages alive. Our findings inform the debate on policy responses to foreclosure crises.",
+      "abstract": "Using the adoption of Zombie Property Laws (ZL) across several US states, we show that requiring lenders to maintain properties in the foreclosure process affects mortgage lending decisions and standards. Difference-in-differences estimations using a state border design show that ZL incentivizes lenders to screen mortgage applications more carefully: they deny more applications and impose higher interest rates on originated loans, especially risky loans. In turn, these loans exhibit higher ex post performance. ZL also affects lender behavior after borrowers become distressed, causing them to strategically keep delinquent mortgages alive. Our findings inform the debate on policy responses to foreclosure crises.",
       "doi": "10.1093/rof/rfag008",
       "url": "https://doi.org/10.1093/rof/rfag008",
       "posted_date": "2026-04-26",
@@ -5877,7 +6001,7 @@
         "Juan-Camilo Cárdenas",
         "Nicolás de Roux"
       ],
-      "abstract": "Abstract We conduct a randomized experiment involving 7,063 late-paying clients of a large Colombian bank to compare the effects of text messages that leverage different behavioral motives on loan delinquency. Our results show that receiving a message decreases the likelihood of borrowers being late by 4 percent. The effects are more pronounced and persistent when messages leverage social norms. Using machine learning tools, we find that the effects are higher among borrowers with higher credit scores and unsecured loans. A second experiment shows that this type of message is ineffective in preventing on-time borrowers from falling into loan delinquency.",
+      "abstract": "We conduct a randomized experiment involving 7,063 late-paying clients of a large Colombian bank to compare the effects of text messages that leverage different behavioral motives on loan delinquency. Our results show that receiving a message decreases the likelihood of borrowers being late by 4 percent. The effects are more pronounced and persistent when messages leverage social norms. Using machine learning tools, we find that the effects are higher among borrowers with higher credit scores and unsecured loans. A second experiment shows that this type of message is ineffective in preventing on-time borrowers from falling into loan delinquency.",
       "doi": "10.1093/rof/rfag015",
       "url": "https://doi.org/10.1093/rof/rfag015",
       "posted_date": "2026-04-22",
@@ -6067,7 +6191,7 @@
         "René García",
         "Rodrigo Hizmeri"
       ],
-      "abstract": "Abstract We combine high-frequency stock returns with risk-neutralization to extract the daily common component of tail risks perceived by investors in the cross-section of firms. Our tail risk measure significantly predicts the equity premium and variance risk premium at short horizons. Furthermore, a long–short portfolio built by sorting stocks on their recent exposure to tail risk generates abnormal returns with respect to standard factor models. Incorporating investors’ preferences via risk-neutralization is fundamental to our findings: the predictive power of the physical tail risk is weaker and generally subsumed by its risk-neutral counterpart.",
+      "abstract": "We combine high-frequency stock returns with risk-neutralization to extract the daily common component of tail risks perceived by investors in the cross-section of firms. Our tail risk measure significantly predicts the equity premium and variance risk premium at short horizons. Furthermore, a long–short portfolio built by sorting stocks on their recent exposure to tail risk generates abnormal returns with respect to standard factor models. Incorporating investors’ preferences via risk-neutralization is fundamental to our findings: the predictive power of the physical tail risk is weaker and generally subsumed by its risk-neutral counterpart.",
       "doi": "10.1093/rof/rfag014",
       "url": "https://doi.org/10.1093/rof/rfag014",
       "posted_date": "2026-04-13",
@@ -6351,7 +6475,7 @@
         "Martin M Andreasen",
         "Jeppe Bro"
       ],
-      "abstract": null,
+      "abstract": "We construct a present-value model with a rational bubble identified using stock market data and survey expectations. The model captures the 1970's 'nifty-fifty' bubble, the dot-com bubble, the bubble prior to the 2007-2009 recession, a COVID-19 bubble, and a recent bubble possibly linked to artificial intelligence. When bubble-adjusting the price-dividend ratio, we no longer find explosive dynamics and excess volatility in stock prices. To examine the macroeconomic implications of a bubble, we use the bubble innovation as an instrument in a structural vector autoregression. The results show that a positive bubble shock is expansionary and leads to a higher monetary policy rate.",
       "doi": "10.1093/rof/rfag011",
       "url": "https://doi.org/10.1093/rof/rfag011",
       "posted_date": "2026-03-21",
@@ -6489,7 +6613,7 @@
         "Stefan Greppmair",
         "Stephan Jank"
       ],
-      "abstract": "Abstract We utilize the Eurosystem securities lending facilities as a laboratory to investigate the impact of collateral scarcity on market functioning. The reduction of securities lending fees, implemented in November 2020, provides a quasi-natural experiment for our analyses. This policy change results in a surge in the utilization of securities lending facilities, particularly for bonds with limited supply elasticity in the repo market. We find no evidence of substitution effects; instead, the overall activity in the repo market expands through the collateral multiplier. The improved pricing conditions alleviate collateral scarcity and enhance market quality in both the repo and cash markets.",
+      "abstract": "We utilize the Eurosystem securities lending facilities as a laboratory to investigate the impact of collateral scarcity on market functioning. The reduction of securities lending fees, implemented in November 2020, provides a quasi-natural experiment for our analyses. This policy change results in a surge in the utilization of securities lending facilities, particularly for bonds with limited supply elasticity in the repo market. We find no evidence of substitution effects; instead, the overall activity in the repo market expands through the collateral multiplier. The improved pricing conditions alleviate collateral scarcity and enhance market quality in both the repo and cash markets.",
       "doi": "10.1093/rof/rfag004",
       "url": "https://doi.org/10.1093/rof/rfag004",
       "posted_date": "2026-02-18",
@@ -6675,7 +6799,7 @@
       "authors": [
         "Pat Akey"
       ],
-      "abstract": null,
+      "abstract": "The Fama-French factors are ubiquitous in empirical finance. We find that factor returns differ substantially depending on when the data were downloaded. A large portion of these retroactive changes appear to be driven by modifications to the factor construction methodology rather than by revisions to the underlying data. Changes to the factors have large effects in two widely-studied contexts: mutual fund performance and cross-sectional equity pricing. Model evaluation tests suggest that more recent vintages do not perform better. Our findings have significant implications for the integrity of finance research and underscore the importance of understanding the provenance of third-party data.",
       "doi": "10.1093/rof/rfag002",
       "url": "https://doi.org/10.1093/rof/rfag002",
       "posted_date": "2026-01-28",
