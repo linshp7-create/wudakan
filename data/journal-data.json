@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026-08-29T13:25:06+08:00",
+  "contentVersion": "2026-09-02T08:22:13+08:00",
   "appVersionMin": "1.6.0",
   "journals": [
     {
@@ -4157,6 +4157,46 @@
     }
   ],
   "earlyView": [
+    {
+      "journal": "RFS",
+      "title": "Flow",
+      "authors": [
+        "Caitlin Dannhauser",
+        "Jeffrey Pontiff"
+      ],
+      "abstract": "Performance chasing is pervasive in active mutual funds, index mutual funds, and ETFs, with positive flow-performance sensitivity evident in both broad-based and niche funds and for the skill and nonskill components of returns. The sensitivity of ETFs is greatest, with insignificant differences between active and index mutual funds. The heightened sensitivity of ETFs is not explained by benchmark design or exchange trading, and is amplified by institutional ownership. Institutional trading of ETFs follows a momentum strategy, rather than flow management or benchmarking. Institutional herding and the outsourcing of investment management to model portfolios heightens the performance sensitivity of ETF flows.",
+      "doi": "10.1093/rfs/hhag080",
+      "url": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag080/8778553",
+      "posted_date": "2026-09-01",
+      "status": "early_view"
+    },
+    {
+      "journal": "RFS",
+      "title": "Long Rates, Life Insurers, and Credit Spreads",
+      "authors": [
+        "Ziang Li"
+      ],
+      "abstract": "This paper proposes a new channel through which long-term interest rates transmit to credit spreads. When life insurers carry negative duration gaps, higher rates reduce their liabilities more than assets. Rate increases therefore boost equity and risk-bearing capacity, lowering equilibrium credit spreads. Empirically, I test this channel with bond-level yields and a maturity-based discontinuity in bond ownership. Insurers' trades confirm the mechanism: after rates rise, insurers shift portfolios towards riskier, high-yield bonds. As rates increase, bonds more heavily held by life insurers experience greater spread reductions. The results show that institutional duration mismatch shapes credit spreads and corporate financing conditions.",
+      "doi": "10.1093/rfs/hhag079",
+      "url": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag079/8777198",
+      "posted_date": "2026-08-31",
+      "status": "early_view"
+    },
+    {
+      "journal": "JFQA",
+      "title": "Measuring Local Climate Change Attention: Does It Affect Households and Firms?",
+      "authors": [
+        "Leonard Kostovetsky",
+        "Lin Peng",
+        "Christopher Rauh",
+        "Muhammed Yonac"
+      ],
+      "abstract": "We develop a novel, high-frequency measure of local climate change attention based on a comprehensive dataset covering over 5,000 U.S. newspapers across all major population centers. Heightened attention significantly increases household investment in green ETFs and purchases of flood insurance, prompts local firms to discuss climate risk more frequently, and improves firms’ environmental performance. Our measure captures substantial spatial and temporal variation associated with local demographics, social media, and environmental events, and it reflects variation from newspaper ownership and peer attention. By contrast, a widely used existing climate attention measure shows no significant relationship with these household and firm outcomes. Read it here .",
+      "doi": null,
+      "url": "https://jfqa.org/2026/08/31/measuring-local-climate-change-attention-does-it-affect-households-and-firms/",
+      "posted_date": "2026-08-31",
+      "status": "early_view"
+    },
     {
       "journal": "JF",
       "title": "Longevity, Health, and Housing Risk Management in Retirement",
