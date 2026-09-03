@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026-09-02T08:22:13+08:00",
+  "contentVersion": "2026-09-03T08:11:05+08:00",
   "appVersionMin": "1.6.0",
   "journals": [
     {
@@ -694,8 +694,21 @@
           "toc_source_url": "",
           "is_complete_bound_issue": null,
           "notes": "",
-          "paper_count": 11,
+          "paper_count": 12,
           "papers": [
+            {
+              "title": "Tax loss carryforwards and firms’ risk",
+              "authors": [
+                "Jack Favilukis",
+                "Ron Giammarino",
+                "Jose Pizarro",
+                "Mikhail Simutin"
+              ],
+              "abstract": "Tax loss carryforwards (TLCF) — accumulated losses that reduce taxable income — are an important and risky corporate asset. We show theoretically how TLCF affect equity risk: If TLCF are low and will be used with certainty, equity risk is decreasing with TLCF because TLCF represent a safe cash flow; if TLCF are high, equity risk is increasing in TLCF because TLCF are likely to expire unused when cash flow is low. In a calibrated model the latter effect dominates and risk is increasing in TLCF on average. Empirically, TLCF positively forecast firms’ volatility, beta, return, and cost of capital.",
+              "doi": "10.1016/j.jfineco.2026.104356",
+              "url": "https://doi.org/10.1016/j.jfineco.2026.104356",
+              "pages": "104356"
+            },
             {
               "title": "Do proprietary traders provide liquidity?",
               "authors": [
