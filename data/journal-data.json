@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026-09-03T08:11:05+08:00",
+  "contentVersion": "2026-09-04T08:37:04+08:00",
   "appVersionMin": "1.6.0",
   "journals": [
     {
@@ -694,8 +694,20 @@
           "toc_source_url": "",
           "is_complete_bound_issue": null,
           "notes": "",
-          "paper_count": 12,
+          "paper_count": 13,
           "papers": [
+            {
+              "title": "Anatomy of a run: The Terra Luna crash",
+              "authors": [
+                "Jiageng Liu",
+                "Igor Makarov",
+                "Antoinette Schoar"
+              ],
+              "abstract": "Terra, the third largest cryptocurrency ecosystem after Bitcoin and Ethereum, collapsed in three days in May 2022 and wiped out $50 billion in valuation. At the center of the collapse was a run on a blockchain-based borrowing and lending protocol (Anchor) that promised high yields to its stablecoin (UST) depositors. Using detailed data from the Terra blockchain and trading data from exchanges, we show that the run on Terra was a complex phenomenon that happened across multiple chains and assets. It was unlikely due to concentrated market manipulation by a third party but instead was precipitated by growing concerns about the sustainability of the system. Once a few large holders of UST adjusted their positions on May 7th, 2022, other large traders followed. Blockchain technology allowed investors to monitor each other's actions and amplified the speed of the run. Wealthier and more sophisticated investors were the first to run and experienced much smaller losses. Poorer and less sophisticated investors ran later and had larger losses. The complexity of the system made it difficult even for insiders to understand the buildup of risk. Finally, we draw broader lessons about financial fragility in an environment where a regulatory safety net does not exist, pseudonymous transactions are publicly observable, and market participants are incentivized to monitor the financial health of the system.",
+              "doi": "10.1016/j.jfineco.2026.104359",
+              "url": "https://doi.org/10.1016/j.jfineco.2026.104359",
+              "pages": "104359"
+            },
             {
               "title": "Tax loss carryforwards and firms’ risk",
               "authors": [
@@ -4170,6 +4182,47 @@
     }
   ],
   "earlyView": [
+    {
+      "journal": "RF",
+      "title": "Spend or Invest? Analyzing MPC Heterogeneity Across Three Stimulus Waves",
+      "authors": [
+        "Jan Toczynski"
+      ],
+      "abstract": "Using transaction data from a U.S. account aggregator, I study how household balance-sheet conditions drive within-person variation in marginal propensities to consume, repay debt, and invest across three rounds of pandemic stimulus. Using a machine learning imputation estimator, I measure the sensitivity of responses to time-varying financial circumstances. Spending responses fall as liquid assets increase, while debt repayments crowd out consumption only for those with binding borrowing limits. Transfers also encourage retail investment in stocks and cryptocurrencies at both intensive and extensive margins. The findings show how liquidity constraints and debt overhang influence the allocation of transfers across spending, deleveraging, and financial assets.",
+      "doi": "10.1093/rof/rfag034",
+      "url": "https://academic.oup.com/rof/advance-article/doi/10.1093/rof/rfag034/8782859",
+      "posted_date": "2026-09-03",
+      "status": "early_view"
+    },
+    {
+      "journal": "JFQA",
+      "title": "Does Climate Change Affect Firm Sales? Identifying Supply Effects",
+      "authors": [
+        "Claudia Custodio",
+        "Miguel A Ferreira",
+        "Emilia Garcia-Appendini",
+        "Adrian Lam"
+      ],
+      "abstract": "We estimate the supply-side effects of climate change on firm sales by exploiting variation in local average temperature across suppliers of the same client. A 1°C increase in temperature leads to a 2.5% decline in annual sales. This effect is nonlinear, with stronger effects among suppliers in regions with the largest temperature increases and in cooler regions. Manufacturing and heat-sensitive industries are more affected, consistent with a reduction in labor productivity and labor supply when local temperatures rise. Non-diversified and financially constrained firms are also more affected, supporting the importance of operational and financial flexibility in adapting to climate change.",
+      "doi": null,
+      "url": "https://jfqa.org/2026/09/02/does-climate-change-affect-firm-sales-identifying-supply-effects/",
+      "posted_date": "2026-09-02",
+      "status": "early_view"
+    },
+    {
+      "journal": "RFS",
+      "title": "Stablecoin Runs and the Centralization of Arbitrage",
+      "authors": [
+        "Yiming Ma",
+        "Yao Zeng",
+        "Anthony Lee Zhang"
+      ],
+      "abstract": "Stablecoins are cryptoassets designed to be pegged to the dollar, but they are backed by imperfectly liquid USD assets. We show that stablecoins feature concentrated arbitrage: the largest issuer, Tether, allows only six agents in an average month to redeem stablecoins for cash. We argue that the issuers’ choice of arbitrage concentration reflects a trade-off: efficient arbitrage improves stablecoin price stability in secondary markets but amplifies run risks by reducing investors’ price impact from selling stablecoins. Our findings imply that policies designed to improve stablecoin price stability may have the unintended consequence of increasing stablecoin run risks. ( JEL G01, G23)",
+      "doi": "10.1093/rfs/hhag072",
+      "url": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag072/8782924",
+      "posted_date": "2026-09-03",
+      "status": "early_view"
+    },
     {
       "journal": "RFS",
       "title": "Flow",
